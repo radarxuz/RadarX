@@ -10,16 +10,17 @@ using System.Diagnostics;
 using System.Net.Http;
 using System.Net.Http.Headers;
 using System.Runtime.InteropServices;
+using System.Text.Json;
 using System.Threading;
 using System.Threading.Tasks;
 using iText.Kernel.Pdf;
 using iText.Kernel.Pdf.Canvas.Parser;
 using Microsoft.Data.SqlClient;
 using Microsoft.EntityFrameworkCore;
-using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 using TestX.Core.Enums;
 using TestX.Data.Wrapper.Helpers;
+using JsonSerializer = Newtonsoft.Json.JsonSerializer;
 
 namespace TestX.Data.Wrapper.Runners
 {
@@ -41,6 +42,20 @@ namespace TestX.Data.Wrapper.Runners
 
         public async Task InitializeDailyTask()
         {
+            var optionsBuilder = new DbContextOptionsBuilder<DataBaseContext>();
+            optionsBuilder.UseSqlServer("data source=(local);initial catalog=DataX;persist security info=True;user id=sa;password=eso8Yv0#;MultipleActiveResultSets=True;App=EntityFramework;TrustServerCertificate=True");
+            using (var context = new DataBaseContext(optionsBuilder.Options))
+            {
+                var cameras = await context.Cameras.ToListAsync();
+                var jsonData = System.Text.Json.JsonSerializer.Serialize(cameras, new JsonSerializerOptions
+                {
+                    WriteIndented = true 
+                });
+
+                await File.WriteAllTextAsync("E:\\datax\\RECEIVER\\Data\\data.json", jsonData);
+                Console.WriteLine("data.json updated successfully!");
+            }
+
             await Start();
             Console.WriteLine(DateTime.Now + "\tDaily task completed.");
 
@@ -48,12 +63,24 @@ namespace TestX.Data.Wrapper.Runners
             {
                 try
                 {
+                    
                     var now = DateTime.Now;
                     var midnight = DateTime.Today.AddDays(1);
                     var timeUntilMidnight = (midnight - now);
 
                     Console.WriteLine(DateTime.Now + $"\tTime until to start: {timeUntilMidnight}");
                     Thread.Sleep(timeUntilMidnight);
+                    using (var context = new DataBaseContext(optionsBuilder.Options))
+                    {
+                        var cameras = await context.Cameras.ToListAsync();
+                        var jsonData = System.Text.Json.JsonSerializer.Serialize(cameras, new JsonSerializerOptions
+                        {
+                            WriteIndented = true 
+                        });
+
+                        await File.WriteAllTextAsync("E:\\datax\\RECEIVER\\Data\\data.json", jsonData);
+                        Console.WriteLine("data.json updated successfully!");
+                    }
                     await Start();
                 }
                 catch (Exception e)
