@@ -1,0 +1,299 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\Backend\\RadarX\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B830AA4D-8656-4965-B029-F2090FAAC27C}|src\\RadarX.Data\\RadarX.Data.csproj|d:\\projects\\backend\\radarx\\src\\radarx.data\\entities\\punishment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B830AA4D-8656-4965-B029-F2090FAAC27C}|src\\RadarX.Data\\RadarX.Data.csproj|solutionrelative:src\\radarx.data\\entities\\punishment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B830AA4D-8656-4965-B029-F2090FAAC27C}|src\\RadarX.Data\\RadarX.Data.csproj|d:\\projects\\backend\\radarx\\src\\radarx.data\\entities\\camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B830AA4D-8656-4965-B029-F2090FAAC27C}|src\\RadarX.Data\\RadarX.Data.csproj|solutionrelative:src\\radarx.data\\entities\\camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FA71E6D-75E3-47F7-B993-CA7B8E9762DA}|src\\RadarX.Api\\RadarX.Api.csproj|d:\\projects\\backend\\radarx\\src\\radarx.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FA71E6D-75E3-47F7-B993-CA7B8E9762DA}|src\\RadarX.Api\\RadarX.Api.csproj|solutionrelative:src\\radarx.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7550FBA8-5072-47C6-AD15-B86E11C6892B}|src\\RadarX.Service\\RadarX.Service.csproj|d:\\projects\\backend\\radarx\\src\\radarx.service\\exceptions\\customexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7550FBA8-5072-47C6-AD15-B86E11C6892B}|src\\RadarX.Service\\RadarX.Service.csproj|solutionrelative:src\\radarx.service\\exceptions\\customexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FA71E6D-75E3-47F7-B993-CA7B8E9762DA}|src\\RadarX.Api\\RadarX.Api.csproj|d:\\projects\\backend\\radarx\\src\\radarx.api\\middlewares\\exceptionhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FA71E6D-75E3-47F7-B993-CA7B8E9762DA}|src\\RadarX.Api\\RadarX.Api.csproj|solutionrelative:src\\radarx.api\\middlewares\\exceptionhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FA71E6D-75E3-47F7-B993-CA7B8E9762DA}|src\\RadarX.Api\\RadarX.Api.csproj|d:\\projects\\backend\\radarx\\src\\radarx.api\\models\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FA71E6D-75E3-47F7-B993-CA7B8E9762DA}|src\\RadarX.Api\\RadarX.Api.csproj|solutionrelative:src\\radarx.api\\models\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FA71E6D-75E3-47F7-B993-CA7B8E9762DA}|src\\RadarX.Api\\RadarX.Api.csproj|d:\\projects\\backend\\radarx\\src\\radarx.api\\models\\configureapiurlname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FA71E6D-75E3-47F7-B993-CA7B8E9762DA}|src\\RadarX.Api\\RadarX.Api.csproj|solutionrelative:src\\radarx.api\\models\\configureapiurlname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FA71E6D-75E3-47F7-B993-CA7B8E9762DA}|src\\RadarX.Api\\RadarX.Api.csproj|d:\\projects\\backend\\radarx\\src\\radarx.api\\extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FA71E6D-75E3-47F7-B993-CA7B8E9762DA}|src\\RadarX.Api\\RadarX.Api.csproj|solutionrelative:src\\radarx.api\\extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FA71E6D-75E3-47F7-B993-CA7B8E9762DA}|src\\RadarX.Api\\RadarX.Api.csproj|d:\\projects\\backend\\radarx\\src\\radarx.api\\extensions\\httpcontextextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FA71E6D-75E3-47F7-B993-CA7B8E9762DA}|src\\RadarX.Api\\RadarX.Api.csproj|solutionrelative:src\\radarx.api\\extensions\\httpcontextextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B830AA4D-8656-4965-B029-F2090FAAC27C}|src\\RadarX.Data\\RadarX.Data.csproj|d:\\projects\\backend\\radarx\\src\\radarx.data\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B830AA4D-8656-4965-B029-F2090FAAC27C}|src\\RadarX.Data\\RadarX.Data.csproj|solutionrelative:src\\radarx.data\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B830AA4D-8656-4965-B029-F2090FAAC27C}|src\\RadarX.Data\\RadarX.Data.csproj|d:\\projects\\backend\\radarx\\src\\radarx.data\\irepositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B830AA4D-8656-4965-B029-F2090FAAC27C}|src\\RadarX.Data\\RadarX.Data.csproj|solutionrelative:src\\radarx.data\\irepositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B830AA4D-8656-4965-B029-F2090FAAC27C}|src\\RadarX.Data\\RadarX.Data.csproj|d:\\projects\\backend\\radarx\\src\\radarx.data\\contexts\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B830AA4D-8656-4965-B029-F2090FAAC27C}|src\\RadarX.Data\\RadarX.Data.csproj|solutionrelative:src\\radarx.data\\contexts\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B830AA4D-8656-4965-B029-F2090FAAC27C}|src\\RadarX.Data\\RadarX.Data.csproj|d:\\projects\\backend\\radarx\\src\\radarx.data\\common\\auditable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B830AA4D-8656-4965-B029-F2090FAAC27C}|src\\RadarX.Data\\RadarX.Data.csproj|solutionrelative:src\\radarx.data\\common\\auditable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{809C9F95-46F3-43D5-BE7D-C0E7D3AA9914}|src\\RadarX.Core\\RadarX.Core.csproj|d:\\projects\\backend\\radarx\\src\\radarx.core\\enums\\urltype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{809C9F95-46F3-43D5-BE7D-C0E7D3AA9914}|src\\RadarX.Core\\RadarX.Core.csproj|solutionrelative:src\\radarx.core\\enums\\urltype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{809C9F95-46F3-43D5-BE7D-C0E7D3AA9914}|src\\RadarX.Core\\RadarX.Core.csproj|d:\\projects\\backend\\radarx\\src\\radarx.core\\enums\\cameratype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{809C9F95-46F3-43D5-BE7D-C0E7D3AA9914}|src\\RadarX.Core\\RadarX.Core.csproj|solutionrelative:src\\radarx.core\\enums\\cameratype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomException.cs",
+              "DocumentMoniker": "D:\\Projects\\Backend\\RadarX\\src\\RadarX.Service\\Exceptions\\CustomException.cs",
+              "RelativeDocumentMoniker": "src\\RadarX.Service\\Exceptions\\CustomException.cs",
+              "ToolTip": "D:\\Projects\\Backend\\RadarX\\src\\RadarX.Service\\Exceptions\\CustomException.cs",
+              "RelativeToolTip": "src\\RadarX.Service\\Exceptions\\CustomException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T13:07:11.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExceptionHandlerMiddleware.cs",
+              "DocumentMoniker": "D:\\Projects\\Backend\\RadarX\\src\\RadarX.Api\\Middlewares\\ExceptionHandlerMiddleware.cs",
+              "RelativeDocumentMoniker": "src\\RadarX.Api\\Middlewares\\ExceptionHandlerMiddleware.cs",
+              "ToolTip": "D:\\Projects\\Backend\\RadarX\\src\\RadarX.Api\\Middlewares\\ExceptionHandlerMiddleware.cs",
+              "RelativeToolTip": "src\\RadarX.Api\\Middlewares\\ExceptionHandlerMiddleware.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T13:06:56.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Response.cs",
+              "DocumentMoniker": "D:\\Projects\\Backend\\RadarX\\src\\RadarX.Api\\Models\\Response.cs",
+              "RelativeDocumentMoniker": "src\\RadarX.Api\\Models\\Response.cs",
+              "ToolTip": "D:\\Projects\\Backend\\RadarX\\src\\RadarX.Api\\Models\\Response.cs",
+              "RelativeToolTip": "src\\RadarX.Api\\Models\\Response.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T13:06:42.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ConfigureApiUrlName.cs",
+              "DocumentMoniker": "D:\\Projects\\Backend\\RadarX\\src\\RadarX.Api\\Models\\ConfigureApiUrlName.cs",
+              "RelativeDocumentMoniker": "src\\RadarX.Api\\Models\\ConfigureApiUrlName.cs",
+              "ToolTip": "D:\\Projects\\Backend\\RadarX\\src\\RadarX.Api\\Models\\ConfigureApiUrlName.cs",
+              "RelativeToolTip": "src\\RadarX.Api\\Models\\ConfigureApiUrlName.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T13:06:24.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\Projects\\Backend\\RadarX\\src\\RadarX.Data\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "src\\RadarX.Data\\Repositories\\Repository.cs",
+              "ToolTip": "D:\\Projects\\Backend\\RadarX\\src\\RadarX.Data\\Repositories\\Repository.cs",
+              "RelativeToolTip": "src\\RadarX.Data\\Repositories\\Repository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T13:03:09.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\Backend\\RadarX\\src\\RadarX.Data\\IRepositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "src\\RadarX.Data\\IRepositories\\IRepository.cs",
+              "ToolTip": "D:\\Projects\\Backend\\RadarX\\src\\RadarX.Data\\IRepositories\\IRepository.cs",
+              "RelativeToolTip": "src\\RadarX.Data\\IRepositories\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T13:02:58.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ServiceExtensions.cs",
+              "DocumentMoniker": "D:\\Projects\\Backend\\RadarX\\src\\RadarX.Api\\Extensions\\ServiceExtensions.cs",
+              "RelativeDocumentMoniker": "src\\RadarX.Api\\Extensions\\ServiceExtensions.cs",
+              "ToolTip": "D:\\Projects\\Backend\\RadarX\\src\\RadarX.Api\\Extensions\\ServiceExtensions.cs",
+              "RelativeToolTip": "src\\RadarX.Api\\Extensions\\ServiceExtensions.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAiwAEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T13:01:51.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HttpContextExtensions.cs",
+              "DocumentMoniker": "D:\\Projects\\Backend\\RadarX\\src\\RadarX.Api\\Extensions\\HttpContextExtensions.cs",
+              "RelativeDocumentMoniker": "src\\RadarX.Api\\Extensions\\HttpContextExtensions.cs",
+              "ToolTip": "D:\\Projects\\Backend\\RadarX\\src\\RadarX.Api\\Extensions\\HttpContextExtensions.cs",
+              "RelativeToolTip": "src\\RadarX.Api\\Extensions\\HttpContextExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T13:01:30.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\Backend\\RadarX\\src\\RadarX.Api\\Program.cs",
+              "RelativeDocumentMoniker": "src\\RadarX.Api\\Program.cs",
+              "ToolTip": "D:\\Projects\\Backend\\RadarX\\src\\RadarX.Api\\Program.cs",
+              "RelativeToolTip": "src\\RadarX.Api\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAB8AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T13:00:37.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DataBaseContext.cs",
+              "DocumentMoniker": "D:\\Projects\\Backend\\RadarX\\src\\RadarX.Data\\Contexts\\DataBaseContext.cs",
+              "RelativeDocumentMoniker": "src\\RadarX.Data\\Contexts\\DataBaseContext.cs",
+              "ToolTip": "D:\\Projects\\Backend\\RadarX\\src\\RadarX.Data\\Contexts\\DataBaseContext.cs",
+              "RelativeToolTip": "src\\RadarX.Data\\Contexts\\DataBaseContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T12:55:07.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Auditable.cs",
+              "DocumentMoniker": "D:\\Projects\\Backend\\RadarX\\src\\RadarX.Data\\Common\\Auditable.cs",
+              "RelativeDocumentMoniker": "src\\RadarX.Data\\Common\\Auditable.cs",
+              "ToolTip": "D:\\Projects\\Backend\\RadarX\\src\\RadarX.Data\\Common\\Auditable.cs",
+              "RelativeToolTip": "src\\RadarX.Data\\Common\\Auditable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T12:53:46.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Punishment.cs",
+              "DocumentMoniker": "D:\\Projects\\Backend\\RadarX\\src\\RadarX.Data\\Entities\\Punishment.cs",
+              "RelativeDocumentMoniker": "src\\RadarX.Data\\Entities\\Punishment.cs",
+              "ToolTip": "D:\\Projects\\Backend\\RadarX\\src\\RadarX.Data\\Entities\\Punishment.cs",
+              "RelativeToolTip": "src\\RadarX.Data\\Entities\\Punishment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T12:52:28.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CameraType.cs",
+              "DocumentMoniker": "D:\\Projects\\Backend\\RadarX\\src\\RadarX.Core\\Enums\\CameraType.cs",
+              "RelativeDocumentMoniker": "src\\RadarX.Core\\Enums\\CameraType.cs",
+              "ToolTip": "D:\\Projects\\Backend\\RadarX\\src\\RadarX.Core\\Enums\\CameraType.cs",
+              "RelativeToolTip": "src\\RadarX.Core\\Enums\\CameraType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T12:48:52.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Camera.cs",
+              "DocumentMoniker": "D:\\Projects\\Backend\\RadarX\\src\\RadarX.Data\\Entities\\Camera.cs",
+              "RelativeDocumentMoniker": "src\\RadarX.Data\\Entities\\Camera.cs",
+              "ToolTip": "D:\\Projects\\Backend\\RadarX\\src\\RadarX.Data\\Entities\\Camera.cs",
+              "RelativeToolTip": "src\\RadarX.Data\\Entities\\Camera.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T12:47:24.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UrlType.cs",
+              "DocumentMoniker": "D:\\Projects\\Backend\\RadarX\\src\\RadarX.Core\\Enums\\UrlType.cs",
+              "RelativeDocumentMoniker": "src\\RadarX.Core\\Enums\\UrlType.cs",
+              "ToolTip": "D:\\Projects\\Backend\\RadarX\\src\\RadarX.Core\\Enums\\UrlType.cs",
+              "RelativeToolTip": "src\\RadarX.Core\\Enums\\UrlType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T12:46:53.936Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+D:\Projects\Backend\RadarX\src\TestX.Data\bin\Debug\net8.0\TestX.Data.deps.json
+D:\Projects\Backend\RadarX\src\TestX.Data\bin\Debug\net8.0\TestX.Data.runtimeconfig.json
+D:\Projects\Backend\RadarX\src\TestX.Data\bin\Debug\net8.0\TestX.Data.dll
+D:\Projects\Backend\RadarX\src\TestX.Data\bin\Debug\net8.0\TestX.Data.pdb
+D:\Projects\Backend\RadarX\src\TestX.Data\bin\Debug\net8.0\TestX.Core.dll
+D:\Projects\Backend\RadarX\src\TestX.Data\bin\Debug\net8.0\TestX.Core.pdb
+D:\Projects\Backend\RadarX\src\TestX.Data\obj\Debug\net8.0\TestX.Data.csproj.AssemblyReference.cache
+D:\Projects\Backend\RadarX\src\TestX.Data\obj\Debug\net8.0\TestX.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Backend\RadarX\src\TestX.Data\obj\Debug\net8.0\TestX.Data.AssemblyInfoInputs.cache
+D:\Projects\Backend\RadarX\src\TestX.Data\obj\Debug\net8.0\TestX.Data.AssemblyInfo.cs
+D:\Projects\Backend\RadarX\src\TestX.Data\obj\Debug\net8.0\TestX.Data.csproj.CoreCompileInputs.cache
+D:\Projects\Backend\RadarX\src\TestX.Data\obj\Debug\net8.0\TestX.Data.csproj.Up2Date
+D:\Projects\Backend\RadarX\src\TestX.Data\obj\Debug\net8.0\TestX.Data.dll
+D:\Projects\Backend\RadarX\src\TestX.Data\obj\Debug\net8.0\refint\TestX.Data.dll
+D:\Projects\Backend\RadarX\src\TestX.Data\obj\Debug\net8.0\TestX.Data.pdb
+D:\Projects\Backend\RadarX\src\TestX.Data\obj\Debug\net8.0\TestX.Data.genruntimeconfig.cache
+D:\Projects\Backend\RadarX\src\TestX.Data\obj\Debug\net8.0\ref\TestX.Data.dll

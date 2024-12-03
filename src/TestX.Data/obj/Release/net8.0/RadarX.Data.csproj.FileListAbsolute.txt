@@ -1,0 +1,17 @@
+D:\Projects\Backend\RadarX\src\RadarX.Data\bin\Release\net8.0\RadarX.Data.deps.json
+D:\Projects\Backend\RadarX\src\RadarX.Data\bin\Release\net8.0\RadarX.Data.runtimeconfig.json
+D:\Projects\Backend\RadarX\src\RadarX.Data\bin\Release\net8.0\RadarX.Data.dll
+D:\Projects\Backend\RadarX\src\RadarX.Data\bin\Release\net8.0\RadarX.Data.pdb
+D:\Projects\Backend\RadarX\src\RadarX.Data\bin\Release\net8.0\RadarX.Core.dll
+D:\Projects\Backend\RadarX\src\RadarX.Data\bin\Release\net8.0\RadarX.Core.pdb
+D:\Projects\Backend\RadarX\src\RadarX.Data\obj\Release\net8.0\RadarX.Data.csproj.AssemblyReference.cache
+D:\Projects\Backend\RadarX\src\RadarX.Data\obj\Release\net8.0\RadarX.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Backend\RadarX\src\RadarX.Data\obj\Release\net8.0\RadarX.Data.AssemblyInfoInputs.cache
+D:\Projects\Backend\RadarX\src\RadarX.Data\obj\Release\net8.0\RadarX.Data.AssemblyInfo.cs
+D:\Projects\Backend\RadarX\src\RadarX.Data\obj\Release\net8.0\RadarX.Data.csproj.CoreCompileInputs.cache
+D:\Projects\Backend\RadarX\src\RadarX.Data\obj\Release\net8.0\RadarX.D.C4DC8015.Up2Date
+D:\Projects\Backend\RadarX\src\RadarX.Data\obj\Release\net8.0\RadarX.Data.dll
+D:\Projects\Backend\RadarX\src\RadarX.Data\obj\Release\net8.0\refint\RadarX.Data.dll
+D:\Projects\Backend\RadarX\src\RadarX.Data\obj\Release\net8.0\RadarX.Data.pdb
+D:\Projects\Backend\RadarX\src\RadarX.Data\obj\Release\net8.0\RadarX.Data.genruntimeconfig.cache
+D:\Projects\Backend\RadarX\src\RadarX.Data\obj\Release\net8.0\ref\RadarX.Data.dll

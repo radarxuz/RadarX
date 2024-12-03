@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "EmZd8yo4y4IsFAd2LBH6SN70RH3q8t0VAX+/I16Eibw=",
+  "Source": "RadarX.Api",
+  "BasePath": "_content/RadarX.Api",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

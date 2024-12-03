@@ -1,0 +1,11 @@
+D:\Projects\Backend\RadarX\src\RadarX.Core\bin\Debug\net8.0\RadarX.Core.deps.json
+D:\Projects\Backend\RadarX\src\RadarX.Core\bin\Debug\net8.0\RadarX.Core.dll
+D:\Projects\Backend\RadarX\src\RadarX.Core\bin\Debug\net8.0\RadarX.Core.pdb
+D:\Projects\Backend\RadarX\src\RadarX.Core\obj\Debug\net8.0\RadarX.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Backend\RadarX\src\RadarX.Core\obj\Debug\net8.0\RadarX.Core.AssemblyInfoInputs.cache
+D:\Projects\Backend\RadarX\src\RadarX.Core\obj\Debug\net8.0\RadarX.Core.AssemblyInfo.cs
+D:\Projects\Backend\RadarX\src\RadarX.Core\obj\Debug\net8.0\RadarX.Core.csproj.CoreCompileInputs.cache
+D:\Projects\Backend\RadarX\src\RadarX.Core\obj\Debug\net8.0\RadarX.Core.dll
+D:\Projects\Backend\RadarX\src\RadarX.Core\obj\Debug\net8.0\refint\RadarX.Core.dll
+D:\Projects\Backend\RadarX\src\RadarX.Core\obj\Debug\net8.0\RadarX.Core.pdb
+D:\Projects\Backend\RadarX\src\RadarX.Core\obj\Debug\net8.0\ref\RadarX.Core.dll

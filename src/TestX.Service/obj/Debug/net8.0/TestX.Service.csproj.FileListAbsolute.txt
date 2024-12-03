@@ -1,0 +1,17 @@
+D:\Projects\Backend\RadarX\src\TestX.Service\bin\Debug\net8.0\TestX.Service.deps.json
+D:\Projects\Backend\RadarX\src\TestX.Service\bin\Debug\net8.0\TestX.Service.dll
+D:\Projects\Backend\RadarX\src\TestX.Service\bin\Debug\net8.0\TestX.Service.pdb
+D:\Projects\Backend\RadarX\src\TestX.Service\bin\Debug\net8.0\TestX.Core.dll
+D:\Projects\Backend\RadarX\src\TestX.Service\bin\Debug\net8.0\TestX.Data.dll
+D:\Projects\Backend\RadarX\src\TestX.Service\bin\Debug\net8.0\TestX.Data.pdb
+D:\Projects\Backend\RadarX\src\TestX.Service\bin\Debug\net8.0\TestX.Core.pdb
+D:\Projects\Backend\RadarX\src\TestX.Service\obj\Debug\net8.0\TestX.Service.csproj.AssemblyReference.cache
+D:\Projects\Backend\RadarX\src\TestX.Service\obj\Debug\net8.0\TestX.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Backend\RadarX\src\TestX.Service\obj\Debug\net8.0\TestX.Service.AssemblyInfoInputs.cache
+D:\Projects\Backend\RadarX\src\TestX.Service\obj\Debug\net8.0\TestX.Service.AssemblyInfo.cs
+D:\Projects\Backend\RadarX\src\TestX.Service\obj\Debug\net8.0\TestX.Service.csproj.CoreCompileInputs.cache
+D:\Projects\Backend\RadarX\src\TestX.Service\obj\Debug\net8.0\TestX.Se.2E36266A.Up2Date
+D:\Projects\Backend\RadarX\src\TestX.Service\obj\Debug\net8.0\TestX.Service.dll
+D:\Projects\Backend\RadarX\src\TestX.Service\obj\Debug\net8.0\refint\TestX.Service.dll
+D:\Projects\Backend\RadarX\src\TestX.Service\obj\Debug\net8.0\TestX.Service.pdb
+D:\Projects\Backend\RadarX\src\TestX.Service\obj\Debug\net8.0\ref\TestX.Service.dll
