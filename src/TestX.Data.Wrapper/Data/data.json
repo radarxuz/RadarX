@@ -380,22 +380,22 @@
   {
     "Latitude": 40.133214,
     "Longitude": 65.357695,
-    "TotalPunishments": 444,
-    "LastPunishmentDate": "2025-01-11T14:59:46",
+    "TotalPunishments": 459,
+    "LastPunishmentDate": "2025-01-13T18:25:30",
     "CameraType": 1
   },
   {
-    "Latitude": 40.101652,
+    "Latitude": 40.101651,
     "Longitude": 65.394734,
-    "TotalPunishments": 973,
-    "LastPunishmentDate": "2025-01-13T08:01:16",
+    "TotalPunishments": 1000,
+    "LastPunishmentDate": "2025-01-14T06:54:27",
     "CameraType": 0
   },
   {
     "Latitude": 40.132258,
     "Longitude": 65.350384,
-    "TotalPunishments": 262,
-    "LastPunishmentDate": "2025-01-12T17:10:48",
+    "TotalPunishments": 267,
+    "LastPunishmentDate": "2025-01-13T17:26:30",
     "CameraType": 0
   },
   {
@@ -856,8 +856,8 @@
   {
     "Latitude": 40.089035,
     "Longitude": 64.661518,
-    "TotalPunishments": 2792,
-    "LastPunishmentDate": "2025-01-13T07:50:26",
+    "TotalPunishments": 2871,
+    "LastPunishmentDate": "2025-01-14T11:30:02",
     "CameraType": 0
   },
   {
@@ -919,7 +919,7 @@
   {
     "Latitude": 41.304602,
     "Longitude": 69.281696,
-    "TotalPunishments": 1012,
+    "TotalPunishments": 1014,
     "LastPunishmentDate": "2025-01-05T06:22:21",
     "CameraType": 3
   },
@@ -968,8 +968,8 @@
   {
     "Latitude": 40.102665,
     "Longitude": 64.682159,
-    "TotalPunishments": 202,
-    "LastPunishmentDate": "2025-01-12T13:44:54",
+    "TotalPunishments": 214,
+    "LastPunishmentDate": "2025-01-14T04:01:37",
     "CameraType": 1
   },
   {
@@ -1024,7 +1024,7 @@
   {
     "Latitude": 41.344375,
     "Longitude": 69.212915,
-    "TotalPunishments": 306,
+    "TotalPunishments": 307,
     "LastPunishmentDate": "2025-01-02T02:41:18",
     "CameraType": 0
   },
@@ -1563,36 +1563,36 @@
   {
     "Latitude": 41.478083,
     "Longitude": 69.591128,
-    "TotalPunishments": 553,
-    "LastPunishmentDate": "2025-01-12T15:21:37",
+    "TotalPunishments": 558,
+    "LastPunishmentDate": "2025-01-13T20:11:17",
     "CameraType": 3
   },
   {
     "Latitude": 41.462029,
     "Longitude": 69.57591,
-    "TotalPunishments": 486,
-    "LastPunishmentDate": "2025-01-12T09:07:02",
+    "TotalPunishments": 493,
+    "LastPunishmentDate": "2025-01-13T16:29:09",
     "CameraType": 3
   },
   {
     "Latitude": 41.453874,
     "Longitude": 69.556482,
-    "TotalPunishments": 531,
-    "LastPunishmentDate": "2025-01-11T07:07:30",
+    "TotalPunishments": 536,
+    "LastPunishmentDate": "2025-01-13T11:43:43",
     "CameraType": 3
   },
   {
     "Latitude": 40.28377,
     "Longitude": 69.025243,
-    "TotalPunishments": 504,
-    "LastPunishmentDate": "2025-01-12T07:26:27",
+    "TotalPunishments": 525,
+    "LastPunishmentDate": "2025-01-13T18:57:10",
     "CameraType": 1
   },
   {
-    "Latitude": 41.443764,
+    "Latitude": 41.443763,
     "Longitude": 69.556399,
-    "TotalPunishments": 2183,
-    "LastPunishmentDate": "2025-01-13T07:09:40",
+    "TotalPunishments": 2198,
+    "LastPunishmentDate": "2025-01-13T20:43:07",
     "CameraType": 0
   },
   {
@@ -1603,24 +1603,24 @@
     "CameraType": 3
   },
   {
-    "Latitude": 41.062695,
-    "Longitude": 69.331063,
-    "TotalPunishments": 3347,
-    "LastPunishmentDate": "2025-01-13T07:41:43",
+    "Latitude": 41.062694,
+    "Longitude": 69.331064,
+    "TotalPunishments": 3386,
+    "LastPunishmentDate": "2025-01-14T07:40:53",
     "CameraType": 0
   },
   {
     "Latitude": 40.094672,
     "Longitude": 65.422006,
-    "TotalPunishments": 157,
-    "LastPunishmentDate": "2025-01-13T07:57:06",
+    "TotalPunishments": 159,
+    "LastPunishmentDate": "2025-01-13T09:03:38",
     "CameraType": 0
   },
   {
-    "Latitude": 41.060312,
-    "Longitude": 69.347839,
-    "TotalPunishments": 2891,
-    "LastPunishmentDate": "2025-01-12T12:00:03",
+    "Latitude": 41.06031,
+    "Longitude": 69.34784,
+    "TotalPunishments": 2901,
+    "LastPunishmentDate": "2025-01-14T06:09:30",
     "CameraType": 0
   },
   {
@@ -1633,8 +1633,8 @@
   {
     "Latitude": 41.038562,
     "Longitude": 69.026963,
-    "TotalPunishments": 376,
-    "LastPunishmentDate": "2025-01-12T21:05:41",
+    "TotalPunishments": 390,
+    "LastPunishmentDate": "2025-01-14T01:20:15",
     "CameraType": 3
   },
   {
@@ -1668,8 +1668,8 @@
   {
     "Latitude": 41.015081,
     "Longitude": 69.047224,
-    "TotalPunishments": 470,
-    "LastPunishmentDate": "2025-01-12T17:25:49",
+    "TotalPunishments": 480,
+    "LastPunishmentDate": "2025-01-13T15:16:13",
     "CameraType": 3
   },
   {
@@ -1694,10 +1694,10 @@
     "CameraType": 1
   },
   {
-    "Latitude": 41.469048,
-    "Longitude": 69.58268,
-    "TotalPunishments": 667,
-    "LastPunishmentDate": "2025-01-12T17:55:34",
+    "Latitude": 41.469047,
+    "Longitude": 69.582681,
+    "TotalPunishments": 674,
+    "LastPunishmentDate": "2025-01-13T13:23:33",
     "CameraType": 3
   },
   {
@@ -1710,22 +1710,22 @@
   {
     "Latitude": 41.40739,
     "Longitude": 69.501595,
-    "TotalPunishments": 834,
-    "LastPunishmentDate": "2025-01-12T20:48:01",
+    "TotalPunishments": 838,
+    "LastPunishmentDate": "2025-01-13T04:12:37",
     "CameraType": 3
   },
   {
     "Latitude": 41.394649,
     "Longitude": 69.206075,
-    "TotalPunishments": 915,
-    "LastPunishmentDate": "2025-01-12T19:01:42",
+    "TotalPunishments": 925,
+    "LastPunishmentDate": "2025-01-13T19:22:37",
     "CameraType": 3
   },
   {
-    "Latitude": 41.046199,
-    "Longitude": 69.356315,
-    "TotalPunishments": 1131,
-    "LastPunishmentDate": "2025-01-12T14:57:52",
+    "Latitude": 41.046198,
+    "Longitude": 69.356316,
+    "TotalPunishments": 1132,
+    "LastPunishmentDate": "2025-01-14T04:25:17",
     "CameraType": 0
   },
   {
@@ -1745,29 +1745,29 @@
   {
     "Latitude": 41.398566,
     "Longitude": 69.204667,
-    "TotalPunishments": 210,
-    "LastPunishmentDate": "2025-01-12T12:33:24",
+    "TotalPunishments": 211,
+    "LastPunishmentDate": "2025-01-14T04:41:51",
     "CameraType": 3
   },
   {
     "Latitude": 41.482352,
     "Longitude": 69.577835,
-    "TotalPunishments": 216,
-    "LastPunishmentDate": "2025-01-12T18:19:34",
+    "TotalPunishments": 220,
+    "LastPunishmentDate": "2025-01-13T20:36:30",
     "CameraType": 3
   },
   {
-    "Latitude": 41.427588,
-    "Longitude": 69.534815,
-    "TotalPunishments": 6039,
-    "LastPunishmentDate": "2025-01-13T07:48:56",
+    "Latitude": 41.427587,
+    "Longitude": 69.534816,
+    "TotalPunishments": 6108,
+    "LastPunishmentDate": "2025-01-14T07:40:05",
     "CameraType": 0
   },
   {
     "Latitude": 41.514804,
     "Longitude": 69.634163,
-    "TotalPunishments": 3371,
-    "LastPunishmentDate": "2025-01-13T07:47:45",
+    "TotalPunishments": 3394,
+    "LastPunishmentDate": "2025-01-14T05:59:20",
     "CameraType": 0
   },
   {
@@ -1850,8 +1850,8 @@
   {
     "Latitude": 41.439284,
     "Longitude": 69.550294,
-    "TotalPunishments": 714,
-    "LastPunishmentDate": "2025-01-12T17:27:58",
+    "TotalPunishments": 726,
+    "LastPunishmentDate": "2025-01-13T17:10:17",
     "CameraType": 3
   },
   {
@@ -1948,8 +1948,8 @@
   {
     "Latitude": 41.39844,
     "Longitude": 69.20467,
-    "TotalPunishments": 1934,
-    "LastPunishmentDate": "2025-01-13T08:16:19",
+    "TotalPunishments": 1946,
+    "LastPunishmentDate": "2025-01-14T03:39:25",
     "CameraType": 3
   },
   {
@@ -1974,10 +1974,10 @@
     "CameraType": 1
   },
   {
-    "Latitude": 41.040604,
+    "Latitude": 41.040605,
     "Longitude": 69.322297,
-    "TotalPunishments": 4611,
-    "LastPunishmentDate": "2025-01-13T08:27:17",
+    "TotalPunishments": 4714,
+    "LastPunishmentDate": "2025-01-14T07:53:54",
     "CameraType": 0
   },
   {
@@ -2002,10 +2002,10 @@
     "CameraType": 0
   },
   {
-    "Latitude": 41.467244,
+    "Latitude": 41.467243,
     "Longitude": 69.581037,
-    "TotalPunishments": 935,
-    "LastPunishmentDate": "2025-01-12T11:19:08",
+    "TotalPunishments": 939,
+    "LastPunishmentDate": "2025-01-13T05:59:20",
     "CameraType": 3
   },
   {
@@ -2053,15 +2053,15 @@
   {
     "Latitude": 41.461683,
     "Longitude": 69.565071,
-    "TotalPunishments": 1242,
-    "LastPunishmentDate": "2025-01-12T20:31:47",
+    "TotalPunishments": 1255,
+    "LastPunishmentDate": "2025-01-13T19:00:57",
     "CameraType": 3
   },
   {
-    "Latitude": 41.125399,
+    "Latitude": 41.125398,
     "Longitude": 69.318988,
-    "TotalPunishments": 1678,
-    "LastPunishmentDate": "2025-01-13T08:07:26",
+    "TotalPunishments": 1699,
+    "LastPunishmentDate": "2025-01-14T05:36:31",
     "CameraType": 0
   },
   {
@@ -2116,8 +2116,8 @@
   {
     "Latitude": 40.34542,
     "Longitude": 69.23943,
-    "TotalPunishments": 608,
-    "LastPunishmentDate": "2025-01-12T09:45:09",
+    "TotalPunishments": 618,
+    "LastPunishmentDate": "2025-01-13T19:19:16",
     "CameraType": 3
   },
   {
@@ -2184,10 +2184,10 @@
     "CameraType": 0
   },
   {
-    "Latitude": 40.401316,
-    "Longitude": 69.234882,
-    "TotalPunishments": 532,
-    "LastPunishmentDate": "2025-01-11T10:43:27",
+    "Latitude": 40.401314,
+    "Longitude": 69.234883,
+    "TotalPunishments": 535,
+    "LastPunishmentDate": "2025-01-13T14:35:27",
     "CameraType": 0
   },
   {
@@ -2214,8 +2214,8 @@
   {
     "Latitude": 40.371481,
     "Longitude": 69.254162,
-    "TotalPunishments": 350,
-    "LastPunishmentDate": "2025-01-12T17:16:07",
+    "TotalPunishments": 364,
+    "LastPunishmentDate": "2025-01-14T05:52:51",
     "CameraType": 3
   },
   {
@@ -2319,8 +2319,8 @@
   {
     "Latitude": 41.477611,
     "Longitude": 69.575631,
-    "TotalPunishments": 714,
-    "LastPunishmentDate": "2025-01-12T21:11:04",
+    "TotalPunishments": 721,
+    "LastPunishmentDate": "2025-01-13T18:32:32",
     "CameraType": 3
   },
   {
@@ -2366,10 +2366,10 @@
     "CameraType": 0
   },
   {
-    "Latitude": 40.453749,
-    "Longitude": 71.192007,
-    "TotalPunishments": 95,
-    "LastPunishmentDate": "2025-01-12T07:20:24",
+    "Latitude": 40.453746,
+    "Longitude": 71.192009,
+    "TotalPunishments": 97,
+    "LastPunishmentDate": "2025-01-13T08:19:31",
     "CameraType": 0
   },
   {
@@ -2382,8 +2382,8 @@
   {
     "Latitude": 41.314259,
     "Longitude": 69.526807,
-    "TotalPunishments": 544,
-    "LastPunishmentDate": "2025-01-12T17:41:35",
+    "TotalPunishments": 548,
+    "LastPunishmentDate": "2025-01-13T13:40:24",
     "CameraType": 3
   },
   {
@@ -2403,15 +2403,15 @@
   {
     "Latitude": 40.983577,
     "Longitude": 69.048124,
-    "TotalPunishments": 294,
-    "LastPunishmentDate": "2025-01-11T13:57:41",
+    "TotalPunishments": 305,
+    "LastPunishmentDate": "2025-01-13T18:48:30",
     "CameraType": 3
   },
   {
     "Latitude": 41.433707,
     "Longitude": 69.543768,
-    "TotalPunishments": 1006,
-    "LastPunishmentDate": "2025-01-12T19:18:02",
+    "TotalPunishments": 1012,
+    "LastPunishmentDate": "2025-01-13T18:53:18",
     "CameraType": 3
   },
   {
@@ -2473,8 +2473,8 @@
   {
     "Latitude": 41.293791,
     "Longitude": 69.679911,
-    "TotalPunishments": 551,
-    "LastPunishmentDate": "2025-01-12T19:28:09",
+    "TotalPunishments": 561,
+    "LastPunishmentDate": "2025-01-14T01:11:42",
     "CameraType": 3
   },
   {
@@ -2522,8 +2522,8 @@
   {
     "Latitude": 40.8548,
     "Longitude": 68.931307,
-    "TotalPunishments": 332,
-    "LastPunishmentDate": "2025-01-12T17:32:23",
+    "TotalPunishments": 345,
+    "LastPunishmentDate": "2025-01-13T17:39:37",
     "CameraType": 1
   },
   {
@@ -2542,9 +2542,9 @@
   },
   {
     "Latitude": 41.296996,
-    "Longitude": 69.667155,
-    "TotalPunishments": 725,
-    "LastPunishmentDate": "2025-01-13T07:41:53",
+    "Longitude": 69.667154,
+    "TotalPunishments": 731,
+    "LastPunishmentDate": "2025-01-14T07:44:14",
     "CameraType": 0
   },
   {
@@ -2557,8 +2557,8 @@
   {
     "Latitude": 41.436416,
     "Longitude": 69.545415,
-    "TotalPunishments": 951,
-    "LastPunishmentDate": "2025-01-12T10:12:12",
+    "TotalPunishments": 955,
+    "LastPunishmentDate": "2025-01-13T14:20:38",
     "CameraType": 3
   },
   {
@@ -2578,8 +2578,8 @@
   {
     "Latitude": 41.356677,
     "Longitude": 69.129862,
-    "TotalPunishments": 930,
-    "LastPunishmentDate": "2025-01-12T20:34:56",
+    "TotalPunishments": 941,
+    "LastPunishmentDate": "2025-01-13T19:58:25",
     "CameraType": 3
   },
   {
@@ -2618,10 +2618,10 @@
     "CameraType": 0
   },
   {
-    "Latitude": 41.509295,
+    "Latitude": 41.509294,
     "Longitude": 69.62684,
-    "TotalPunishments": 601,
-    "LastPunishmentDate": "2025-01-13T06:51:47",
+    "TotalPunishments": 608,
+    "LastPunishmentDate": "2025-01-14T02:18:12",
     "CameraType": 3
   },
   {
@@ -2641,8 +2641,8 @@
   {
     "Latitude": 40.911273,
     "Longitude": 69.009829,
-    "TotalPunishments": 140,
-    "LastPunishmentDate": "2025-01-12T11:48:43",
+    "TotalPunishments": 145,
+    "LastPunishmentDate": "2025-01-13T16:35:30",
     "CameraType": 3
   },
   {
@@ -2669,8 +2669,8 @@
   {
     "Latitude": 41.30261,
     "Longitude": 69.634416,
-    "TotalPunishments": 443,
-    "LastPunishmentDate": "2025-01-12T19:11:27",
+    "TotalPunishments": 447,
+    "LastPunishmentDate": "2025-01-14T04:45:11",
     "CameraType": 3
   },
   {
@@ -2921,8 +2921,8 @@
   {
     "Latitude": 41.30241,
     "Longitude": 69.641846,
-    "TotalPunishments": 188,
-    "LastPunishmentDate": "2025-01-12T11:49:49",
+    "TotalPunishments": 193,
+    "LastPunishmentDate": "2025-01-14T05:03:45",
     "CameraType": 3
   },
   {
@@ -2998,7 +2998,7 @@
   {
     "Latitude": 40.880972,
     "Longitude": 69.040202,
-    "TotalPunishments": 143,
+    "TotalPunishments": 145,
     "LastPunishmentDate": "2025-01-12T16:45:33",
     "CameraType": 3
   },
@@ -3040,8 +3040,8 @@
   {
     "Latitude": 40.88583,
     "Longitude": 69.047407,
-    "TotalPunishments": 271,
-    "LastPunishmentDate": "2025-01-12T14:14:02",
+    "TotalPunishments": 274,
+    "LastPunishmentDate": "2025-01-13T13:22:20",
     "CameraType": 1
   },
   {
@@ -3180,8 +3180,8 @@
   {
     "Latitude": 41.35426,
     "Longitude": 69.141017,
-    "TotalPunishments": 710,
-    "LastPunishmentDate": "2025-01-13T00:22:21",
+    "TotalPunishments": 723,
+    "LastPunishmentDate": "2025-01-13T11:55:25",
     "CameraType": 3
   },
   {
@@ -3339,17 +3339,17 @@
     "CameraType": 0
   },
   {
-    "Latitude": 40.408449,
-    "Longitude": 68.887576,
-    "TotalPunishments": 76,
-    "LastPunishmentDate": "2025-01-12T12:11:00",
+    "Latitude": 40.408447,
+    "Longitude": 68.887578,
+    "TotalPunishments": 78,
+    "LastPunishmentDate": "2025-01-13T08:52:46",
     "CameraType": 0
   },
   {
     "Latitude": 41.308105,
     "Longitude": 69.563111,
-    "TotalPunishments": 136,
-    "LastPunishmentDate": "2025-01-12T17:55:01",
+    "TotalPunishments": 138,
+    "LastPunishmentDate": "2025-01-13T09:48:47",
     "CameraType": 3
   },
   {
@@ -3409,38 +3409,38 @@
     "CameraType": 1
   },
   {
-    "Latitude": 38.605814,
-    "Longitude": 66.26821,
-    "TotalPunishments": 440,
-    "LastPunishmentDate": "2025-01-13T01:03:50",
+    "Latitude": 38.605813,
+    "Longitude": 66.268209,
+    "TotalPunishments": 449,
+    "LastPunishmentDate": "2025-01-13T21:27:24",
     "CameraType": 0
   },
   {
     "Latitude": 41.166065,
-    "Longitude": 69.250111,
-    "TotalPunishments": 13667,
-    "LastPunishmentDate": "2025-01-13T08:09:48",
+    "Longitude": 69.25011,
+    "TotalPunishments": 14031,
+    "LastPunishmentDate": "2025-01-14T07:53:23",
     "CameraType": 0
   },
   {
     "Latitude": 38.621285,
     "Longitude": 66.251629,
-    "TotalPunishments": 480,
-    "LastPunishmentDate": "2025-01-12T14:45:41",
+    "TotalPunishments": 503,
+    "LastPunishmentDate": "2025-01-13T17:01:16",
     "CameraType": 3
   },
   {
     "Latitude": 41.325056,
     "Longitude": 69.16313,
-    "TotalPunishments": 784,
-    "LastPunishmentDate": "2025-01-13T07:47:33",
+    "TotalPunishments": 791,
+    "LastPunishmentDate": "2025-01-14T07:32:40",
     "CameraType": 3
   },
   {
     "Latitude": 38.846134,
     "Longitude": 66.421711,
-    "TotalPunishments": 582,
-    "LastPunishmentDate": "2025-01-13T05:16:12",
+    "TotalPunishments": 609,
+    "LastPunishmentDate": "2025-01-14T02:44:47",
     "CameraType": 0
   },
   {
@@ -3453,92 +3453,92 @@
   {
     "Latitude": 38.926262,
     "Longitude": 65.422393,
-    "TotalPunishments": 521,
-    "LastPunishmentDate": "2025-01-13T08:10:46",
+    "TotalPunishments": 538,
+    "LastPunishmentDate": "2025-01-14T05:00:25",
     "CameraType": 0
   },
   {
-    "Latitude": 39.032132,
-    "Longitude": 65.599085,
-    "TotalPunishments": 711,
-    "LastPunishmentDate": "2025-01-13T07:53:03",
+    "Latitude": 39.032133,
+    "Longitude": 65.599086,
+    "TotalPunishments": 728,
+    "LastPunishmentDate": "2025-01-13T18:35:34",
     "CameraType": 3
   },
   {
-    "Latitude": 39.038345,
+    "Latitude": 39.038344,
     "Longitude": 65.584855,
-    "TotalPunishments": 579,
-    "LastPunishmentDate": "2025-01-12T14:12:28",
+    "TotalPunishments": 599,
+    "LastPunishmentDate": "2025-01-13T17:56:07",
     "CameraType": 3
   },
   {
-    "Latitude": 38.622214,
-    "Longitude": 66.246339,
-    "TotalPunishments": 268,
-    "LastPunishmentDate": "2025-01-13T02:15:35",
+    "Latitude": 38.622213,
+    "Longitude": 66.24634,
+    "TotalPunishments": 273,
+    "LastPunishmentDate": "2025-01-14T05:00:52",
     "CameraType": 0
   },
   {
-    "Latitude": 39.049624,
-    "Longitude": 65.59154,
-    "TotalPunishments": 618,
-    "LastPunishmentDate": "2025-01-13T04:39:22",
+    "Latitude": 39.049623,
+    "Longitude": 65.591541,
+    "TotalPunishments": 658,
+    "LastPunishmentDate": "2025-01-14T04:07:02",
     "CameraType": 0
   },
   {
     "Latitude": 39.26266,
     "Longitude": 65.155195,
-    "TotalPunishments": 147,
-    "LastPunishmentDate": "2025-01-12T12:02:11",
+    "TotalPunishments": 154,
+    "LastPunishmentDate": "2025-01-13T12:41:00",
     "CameraType": 0
   },
   {
     "Latitude": 39.047236,
     "Longitude": 65.58382,
-    "TotalPunishments": 193,
-    "LastPunishmentDate": "2025-01-13T03:37:39",
+    "TotalPunishments": 205,
+    "LastPunishmentDate": "2025-01-14T05:16:32",
     "CameraType": 0
   },
   {
     "Latitude": 39.972578,
     "Longitude": 65.939401,
-    "TotalPunishments": 705,
-    "LastPunishmentDate": "2025-01-13T09:26:00",
+    "TotalPunishments": 725,
+    "LastPunishmentDate": "2025-01-14T09:10:57",
     "CameraType": 0
   },
   {
     "Latitude": 39.765153,
     "Longitude": 66.913445,
-    "TotalPunishments": 1119,
-    "LastPunishmentDate": "2025-01-13T09:09:04",
+    "TotalPunishments": 1146,
+    "LastPunishmentDate": "2025-01-14T11:02:22",
     "CameraType": 0
   },
   {
     "Latitude": 41.43111,
-    "Longitude": 69.540378,
-    "TotalPunishments": 1320,
-    "LastPunishmentDate": "2025-01-12T18:23:59",
+    "Longitude": 69.540379,
+    "TotalPunishments": 1324,
+    "LastPunishmentDate": "2025-01-13T18:27:13",
     "CameraType": 3
   },
   {
     "Latitude": 40.095191,
     "Longitude": 64.679287,
-    "TotalPunishments": 322,
-    "LastPunishmentDate": "2025-01-12T13:45:55",
+    "TotalPunishments": 334,
+    "LastPunishmentDate": "2025-01-13T12:20:09",
     "CameraType": 1
   },
   {
     "Latitude": 41.281721,
     "Longitude": 69.275991,
-    "TotalPunishments": 246,
+    "TotalPunishments": 247,
     "LastPunishmentDate": "2025-01-02T04:40:40",
     "CameraType": 0
   },
   {
-    "Latitude": 41.285627,
-    "Longitude": 69.690265,
-    "TotalPunishments": 129,
-    "LastPunishmentDate": "2025-01-13T05:25:28",
+    "Latitude": 41.285626,
+    "Longitude": 69.690266,
+    "TotalPunishments": 134,
+    "LastPunishmentDate": "2025-01-14T04:58:47",
     "CameraType": 3
   },
   {
@@ -3551,29 +3551,29 @@
   {
     "Latitude": 40.492134,
     "Longitude": 69.212096,
-    "TotalPunishments": 96,
-    "LastPunishmentDate": "2025-01-12T05:57:52",
+    "TotalPunishments": 97,
+    "LastPunishmentDate": "2025-01-13T08:58:41",
     "CameraType": 0
   },
   {
     "Latitude": 40.885905,
     "Longitude": 69.047724,
-    "TotalPunishments": 100,
-    "LastPunishmentDate": "2025-01-12T19:02:09",
+    "TotalPunishments": 101,
+    "LastPunishmentDate": "2025-01-13T18:37:22",
     "CameraType": 0
   },
   {
     "Latitude": 39.707712,
     "Longitude": 66.651342,
-    "TotalPunishments": 668,
-    "LastPunishmentDate": "2025-01-12T16:23:36",
+    "TotalPunishments": 675,
+    "LastPunishmentDate": "2025-01-13T16:34:11",
     "CameraType": 3
   },
   {
     "Latitude": 39.420843,
     "Longitude": 67.239219,
-    "TotalPunishments": 508,
-    "LastPunishmentDate": "2025-01-13T01:11:51",
+    "TotalPunishments": 514,
+    "LastPunishmentDate": "2025-01-14T05:15:34",
     "CameraType": 3
   },
   {
@@ -3584,24 +3584,24 @@
     "CameraType": 3
   },
   {
-    "Latitude": 39.46168,
-    "Longitude": 67.270562,
-    "TotalPunishments": 7,
-    "LastPunishmentDate": "2025-01-11T12:49:35",
+    "Latitude": 39.461679,
+    "Longitude": 67.270555,
+    "TotalPunishments": 8,
+    "LastPunishmentDate": "2025-01-13T11:36:09",
     "CameraType": 0
   },
   {
     "Latitude": 39.7676,
     "Longitude": 67.272723,
-    "TotalPunishments": 97,
-    "LastPunishmentDate": "2025-01-12T05:05:52",
+    "TotalPunishments": 99,
+    "LastPunishmentDate": "2025-01-14T06:53:18",
     "CameraType": 0
   },
   {
     "Latitude": 41.242588,
     "Longitude": 69.483879,
-    "TotalPunishments": 131,
-    "LastPunishmentDate": "2025-01-12T08:07:59",
+    "TotalPunishments": 134,
+    "LastPunishmentDate": "2025-01-13T13:40:31",
     "CameraType": 3
   },
   {
@@ -3614,14 +3614,14 @@
   {
     "Latitude": 40.096029,
     "Longitude": 64.696765,
-    "TotalPunishments": 519,
-    "LastPunishmentDate": "2025-01-12T12:32:06",
+    "TotalPunishments": 527,
+    "LastPunishmentDate": "2025-01-14T06:29:55",
     "CameraType": 1
   },
   {
     "Latitude": 41.299934,
     "Longitude": 69.249368,
-    "TotalPunishments": 1221,
+    "TotalPunishments": 1224,
     "LastPunishmentDate": "2025-01-02T13:13:16",
     "CameraType": 0
   },
@@ -6736,7 +6736,7 @@
   {
     "Latitude": 41.345131,
     "Longitude": 69.2133,
-    "TotalPunishments": 123,
+    "TotalPunishments": 124,
     "LastPunishmentDate": "2025-01-02T01:54:28",
     "CameraType": 0
   },
@@ -7805,9 +7805,9 @@
     "CameraType": 0
   },
   {
-    "Latitude": 41.368849,
-    "Longitude": 69.186768,
-    "TotalPunishments": 88,
+    "Latitude": 41.368847,
+    "Longitude": 69.186769,
+    "TotalPunishments": 89,
     "LastPunishmentDate": "2025-01-02T01:05:22",
     "CameraType": 0
   },
@@ -12343,8 +12343,8 @@
   {
     "Latitude": 38.924747,
     "Longitude": 65.411525,
-    "TotalPunishments": 443,
-    "LastPunishmentDate": "2025-01-12T13:59:16",
+    "TotalPunishments": 459,
+    "LastPunishmentDate": "2025-01-13T16:44:38",
     "CameraType": 1
   },
   {
@@ -18810,8 +18810,8 @@
   },
   {
     "Latitude": 40.909159,
-    "Longitude": 69.758146,
-    "TotalPunishments": 2220,
+    "Longitude": 69.758145,
+    "TotalPunishments": 2221,
     "LastPunishmentDate": "2025-01-07T04:57:26",
     "CameraType": 0
   },
@@ -22472,8 +22472,8 @@
   {
     "Latitude": 40.975845,
     "Longitude": 69.369796,
-    "TotalPunishments": 133,
-    "LastPunishmentDate": "2025-01-12T11:19:39",
+    "TotalPunishments": 135,
+    "LastPunishmentDate": "2025-01-13T11:24:38",
     "CameraType": 3
   },
   {
@@ -63056,10 +63056,10 @@
     "CameraType": 0
   },
   {
-    "Latitude": 38.924735,
-    "Longitude": 65.41523,
-    "TotalPunishments": 5,
-    "LastPunishmentDate": "2025-01-05T13:05:33",
+    "Latitude": 38.924747,
+    "Longitude": 65.415253,
+    "TotalPunishments": 7,
+    "LastPunishmentDate": "2025-01-13T09:11:57",
     "CameraType": 1
   },
   {
@@ -68014,36 +68014,36 @@
   {
     "Latitude": 41.436428,
     "Longitude": 69.54565,
-    "TotalPunishments": 355,
-    "LastPunishmentDate": "2025-01-12T14:08:39",
+    "TotalPunishments": 359,
+    "LastPunishmentDate": "2025-01-13T11:06:59",
     "CameraType": 0
   },
   {
     "Latitude": 41.436546,
     "Longitude": 69.545661,
-    "TotalPunishments": 56,
-    "LastPunishmentDate": "2025-01-12T14:06:26",
+    "TotalPunishments": 60,
+    "LastPunishmentDate": "2025-01-13T19:25:16",
     "CameraType": 0
   },
   {
-    "Latitude": 41.473351,
+    "Latitude": 41.47335,
     "Longitude": 69.586662,
-    "TotalPunishments": 281,
-    "LastPunishmentDate": "2025-01-12T15:27:28",
+    "TotalPunishments": 289,
+    "LastPunishmentDate": "2025-01-13T19:50:40",
     "CameraType": 0
   },
   {
     "Latitude": 41.488448,
     "Longitude": 69.60346,
-    "TotalPunishments": 369,
-    "LastPunishmentDate": "2025-01-13T06:50:08",
+    "TotalPunishments": 373,
+    "LastPunishmentDate": "2025-01-14T07:52:27",
     "CameraType": 0
   },
   {
-    "Latitude": 41.305288,
-    "Longitude": 69.602522,
-    "TotalPunishments": 55,
-    "LastPunishmentDate": "2025-01-12T11:31:36",
+    "Latitude": 41.30529,
+    "Longitude": 69.602523,
+    "TotalPunishments": 57,
+    "LastPunishmentDate": "2025-01-13T13:46:51",
     "CameraType": 0
   },
   {
@@ -68334,10 +68334,10 @@
     "CameraType": 0
   },
   {
-    "Latitude": 39.432185,
-    "Longitude": 67.232834,
-    "TotalPunishments": 806,
-    "LastPunishmentDate": "2025-01-13T08:26:31",
+    "Latitude": 39.432183,
+    "Longitude": 67.232835,
+    "TotalPunishments": 850,
+    "LastPunishmentDate": "2025-01-14T11:01:29",
     "CameraType": 0
   },
   {
@@ -68355,17 +68355,17 @@
     "CameraType": 0
   },
   {
-    "Latitude": 41.422408,
-    "Longitude": 69.52746,
-    "TotalPunishments": 80,
-    "LastPunishmentDate": "2025-01-11T16:41:59",
+    "Latitude": 41.42241,
+    "Longitude": 69.527459,
+    "TotalPunishments": 85,
+    "LastPunishmentDate": "2025-01-13T16:30:29",
     "CameraType": 3
   },
   {
     "Latitude": 41.422405,
     "Longitude": 69.527515,
-    "TotalPunishments": 148,
-    "LastPunishmentDate": "2025-01-12T14:05:52",
+    "TotalPunishments": 170,
+    "LastPunishmentDate": "2025-01-14T07:41:32",
     "CameraType": 3
   },
   {
@@ -68392,8 +68392,8 @@
   {
     "Latitude": 41.017476,
     "Longitude": 68.940715,
-    "TotalPunishments": 94,
-    "LastPunishmentDate": "2025-01-12T17:17:18",
+    "TotalPunishments": 100,
+    "LastPunishmentDate": "2025-01-13T15:38:22",
     "CameraType": 3
   },
   {
@@ -68903,7 +68903,7 @@
   {
     "Latitude": 39.765182,
     "Longitude": 66.913503,
-    "TotalPunishments": 16,
+    "TotalPunishments": 17,
     "LastPunishmentDate": "2025-01-12T11:53:17",
     "CameraType": 0
   },
