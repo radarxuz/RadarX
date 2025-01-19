@@ -1,471 +1,1157 @@
 [
   {
-    "Latitude": 41.264759,
-    "Longitude": 69.364559,
-    "TotalPunishments": 9,
-    "LastPunishmentDate": "2025-01-17T00:00:00",
+    "Latitude": 41.264951,
+    "Longitude": 69.2674,
+    "TotalPunishments": 40,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 41.264749,
+    "Longitude": 69.364566,
+    "TotalPunishments": 123,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
     "CameraType": 0
   },
   {
-    "Latitude": 41.260426,
-    "Longitude": 69.361945,
-    "TotalPunishments": 15,
-    "LastPunishmentDate": "2025-01-17T00:00:00",
+    "Latitude": 41.260437,
+    "Longitude": 69.361946,
+    "TotalPunishments": 255,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
     "CameraType": 0
   },
   {
-    "Latitude": 41.344013,
-    "Longitude": 69.307441,
-    "TotalPunishments": 18,
-    "LastPunishmentDate": "2025-01-17T00:00:00",
+    "Latitude": 41.344007,
+    "Longitude": 69.307437,
+    "TotalPunishments": 70,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
     "CameraType": 0
   },
   {
     "Latitude": 41.345142,
     "Longitude": 69.207047,
-    "TotalPunishments": 39,
-    "LastPunishmentDate": "2025-01-17T00:00:00",
+    "TotalPunishments": 170,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
     "CameraType": 1
+  },
+  {
+    "Latitude": 41.244061,
+    "Longitude": 69.277489,
+    "TotalPunishments": 33,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 3
   },
   {
     "Latitude": 41.334689,
     "Longitude": 69.264339,
-    "TotalPunishments": 14,
-    "LastPunishmentDate": "2025-01-17T00:00:00",
-    "CameraType": 1
+    "TotalPunishments": 33,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 3
   },
   {
     "Latitude": 41.265831,
     "Longitude": 69.314776,
-    "TotalPunishments": 10,
-    "LastPunishmentDate": "2025-01-17T00:00:00",
+    "TotalPunishments": 49,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 3
+  },
+  {
+    "Latitude": 41.287102,
+    "Longitude": 69.166054,
+    "TotalPunishments": 35,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
     "CameraType": 1
   },
   {
-    "Latitude": 41.25234,
-    "Longitude": 69.356358,
-    "TotalPunishments": 9,
-    "LastPunishmentDate": "2025-01-17T00:00:00",
+    "Latitude": 41.335033,
+    "Longitude": 69.213974,
+    "TotalPunishments": 16,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 3
+  },
+  {
+    "Latitude": 41.32259,
+    "Longitude": 69.188347,
+    "TotalPunishments": 10,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 41.252342,
+    "Longitude": 69.35635,
+    "TotalPunishments": 160,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
     "CameraType": 0
   },
   {
     "Latitude": 41.381557,
     "Longitude": 69.297225,
-    "TotalPunishments": 18,
-    "LastPunishmentDate": "2025-01-17T00:00:00",
-    "CameraType": 1
+    "TotalPunishments": 79,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 3
   },
   {
-    "Latitude": 41.28172,
+    "Latitude": 41.291172,
+    "Longitude": 69.259976,
+    "TotalPunishments": 13,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.281739,
     "Longitude": 69.275,
-    "TotalPunishments": 8,
-    "LastPunishmentDate": "2025-01-17T00:00:00",
+    "TotalPunishments": 97,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
     "CameraType": 0
   },
   {
     "Latitude": 41.28023,
     "Longitude": 69.24204,
-    "TotalPunishments": 6,
-    "LastPunishmentDate": "2025-01-17T00:00:00",
+    "TotalPunishments": 47,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
     "CameraType": 0
   },
   {
     "Latitude": 41.317768,
     "Longitude": 69.339203,
-    "TotalPunishments": 7,
-    "LastPunishmentDate": "2025-01-17T00:00:00",
+    "TotalPunishments": 26,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
     "CameraType": 1
   },
   {
     "Latitude": 41.24436,
     "Longitude": 69.31006,
-    "TotalPunishments": 14,
-    "LastPunishmentDate": "2025-01-17T00:00:00",
+    "TotalPunishments": 63,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
     "CameraType": 1
   },
   {
     "Latitude": 41.272096,
     "Longitude": 69.279591,
-    "TotalPunishments": 9,
-    "LastPunishmentDate": "2025-01-17T00:00:00",
+    "TotalPunishments": 63,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
     "CameraType": 1
   },
   {
     "Latitude": 41.322411,
     "Longitude": 69.236384,
-    "TotalPunishments": 12,
-    "LastPunishmentDate": "2025-01-17T00:00:00",
+    "TotalPunishments": 46,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 3
+  },
+  {
+    "Latitude": 41.280197,
+    "Longitude": 69.189796,
+    "TotalPunishments": 24,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
     "CameraType": 1
   },
   {
-    "Latitude": 41.281629,
+    "Latitude": 41.281657,
     "Longitude": 69.276,
-    "TotalPunishments": 24,
-    "LastPunishmentDate": "2025-01-17T00:00:00",
+    "TotalPunishments": 153,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
     "CameraType": 0
   },
   {
-    "Latitude": 41.344135,
-    "Longitude": 69.307523,
-    "TotalPunishments": 5,
-    "LastPunishmentDate": "2025-01-17T00:00:00",
+    "Latitude": 40.912627,
+    "Longitude": 68.70441,
+    "TotalPunishments": 8,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.344062,
+    "Longitude": 69.307517,
+    "TotalPunishments": 24,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
     "CameraType": 0
   },
   {
     "Latitude": 41.322208,
     "Longitude": 69.206184,
-    "TotalPunishments": 7,
-    "LastPunishmentDate": "2025-01-17T00:00:00",
-    "CameraType": 1
+    "TotalPunishments": 20,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 3
   },
   {
     "Latitude": 41.358673,
     "Longitude": 69.385925,
-    "TotalPunishments": 9,
-    "LastPunishmentDate": "2025-01-17T00:00:00",
+    "TotalPunishments": 59,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
     "CameraType": 3
   },
   {
     "Latitude": 41.285084,
     "Longitude": 69.170937,
-    "TotalPunishments": 6,
-    "LastPunishmentDate": "2025-01-17T00:00:00",
+    "TotalPunishments": 38,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 3
+  },
+  {
+    "Latitude": 41.26206,
+    "Longitude": 69.317215,
+    "TotalPunishments": 20,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
     "CameraType": 3
   },
   {
     "Latitude": 41.324127,
     "Longitude": 69.25803,
-    "TotalPunishments": 33,
-    "LastPunishmentDate": "2025-01-17T00:00:00",
+    "TotalPunishments": 99,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
     "CameraType": 3
+  },
+  {
+    "Latitude": 41.290671,
+    "Longitude": 69.33934,
+    "TotalPunishments": 12,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
   },
   {
     "Latitude": 41.313693,
     "Longitude": 69.236989,
-    "TotalPunishments": 18,
-    "LastPunishmentDate": "2025-01-17T00:00:00",
+    "TotalPunishments": 43,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
     "CameraType": 3
   },
   {
-    "Latitude": 41.339477,
-    "Longitude": 69.226625,
-    "TotalPunishments": 9,
-    "LastPunishmentDate": "2025-01-17T00:00:00",
+    "Latitude": 41.339372,
+    "Longitude": 69.226922,
+    "TotalPunishments": 37,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 3
+  },
+  {
+    "Latitude": 41.245103,
+    "Longitude": 69.301557,
+    "TotalPunishments": 7,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
     "CameraType": 1
   },
   {
-    "Latitude": 41.30457,
-    "Longitude": 69.28164,
-    "TotalPunishments": 18,
-    "LastPunishmentDate": "2025-01-17T00:00:00",
+    "Latitude": 41.259674,
+    "Longitude": 69.196221,
+    "TotalPunishments": 12,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.278572,
+    "Longitude": 69.341606,
+    "TotalPunishments": 15,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 41.304569,
+    "Longitude": 69.281682,
+    "TotalPunishments": 142,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.381186,
+    "Longitude": 69.536414,
+    "TotalPunishments": 5,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
     "CameraType": 0
   },
   {
     "Latitude": 41.268515,
     "Longitude": 69.365602,
-    "TotalPunishments": 19,
-    "LastPunishmentDate": "2025-01-17T00:00:00",
-    "CameraType": 1
+    "TotalPunishments": 185,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 3
   },
   {
-    "Latitude": 41.265163,
-    "Longitude": 69.31499,
-    "TotalPunishments": 23,
-    "LastPunishmentDate": "2025-01-17T00:00:00",
+    "Latitude": 41.245244,
+    "Longitude": 69.218,
+    "TotalPunishments": 5,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
     "CameraType": 0
+  },
+  {
+    "Latitude": 41.265164,
+    "Longitude": 69.314986,
+    "TotalPunishments": 184,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.279126,
+    "Longitude": 69.324274,
+    "TotalPunishments": 16,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
   },
   {
     "Latitude": 41.277351,
     "Longitude": 69.244805,
-    "TotalPunishments": 7,
-    "LastPunishmentDate": "2025-01-17T00:00:00",
+    "TotalPunishments": 20,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
     "CameraType": 0
+  },
+  {
+    "Latitude": 41.31472,
+    "Longitude": 69.186636,
+    "TotalPunishments": 18,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
   },
   {
     "Latitude": 41.515174,
     "Longitude": 69.66046,
-    "TotalPunishments": 5,
-    "LastPunishmentDate": "2025-01-17T00:00:00",
+    "TotalPunishments": 30,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
     "CameraType": 0
   },
   {
     "Latitude": 41.269747,
     "Longitude": 69.276142,
-    "TotalPunishments": 14,
-    "LastPunishmentDate": "2025-01-17T00:00:00",
+    "TotalPunishments": 55,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
     "CameraType": 1
+  },
+  {
+    "Latitude": 41.260208,
+    "Longitude": 69.238469,
+    "TotalPunishments": 8,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
   },
   {
     "Latitude": 41.330505,
     "Longitude": 69.222336,
-    "TotalPunishments": 12,
-    "LastPunishmentDate": "2025-01-17T00:00:00",
+    "TotalPunishments": 38,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
     "CameraType": 3
+  },
+  {
+    "Latitude": 41.363379,
+    "Longitude": 69.1781,
+    "TotalPunishments": 19,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
   },
   {
     "Latitude": 41.32218,
     "Longitude": 69.210471,
-    "TotalPunishments": 7,
-    "LastPunishmentDate": "2025-01-17T00:00:00",
+    "TotalPunishments": 33,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
     "CameraType": 3
+  },
+  {
+    "Latitude": 41.244305,
+    "Longitude": 69.26487,
+    "TotalPunishments": 12,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 3
+  },
+  {
+    "Latitude": 41.211041,
+    "Longitude": 69.190722,
+    "TotalPunishments": 11,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.274044,
+    "Longitude": 69.354424,
+    "TotalPunishments": 20,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 41.275817,
+    "Longitude": 69.205708,
+    "TotalPunishments": 31,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
   },
   {
     "Latitude": 41.325001,
     "Longitude": 69.304207,
-    "TotalPunishments": 19,
-    "LastPunishmentDate": "2025-01-17T00:00:00",
-    "CameraType": 1
+    "TotalPunishments": 63,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 3
   },
   {
-    "Latitude": 41.34045,
-    "Longitude": 69.216956,
-    "TotalPunishments": 6,
-    "LastPunishmentDate": "2025-01-17T00:00:00",
+    "Latitude": 41.340443,
+    "Longitude": 69.216943,
+    "TotalPunishments": 17,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
     "CameraType": 0
   },
   {
     "Latitude": 41.287573,
     "Longitude": 69.349038,
-    "TotalPunishments": 8,
-    "LastPunishmentDate": "2025-01-17T00:00:00",
+    "TotalPunishments": 15,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 41.204281,
+    "Longitude": 69.231369,
+    "TotalPunishments": 12,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
     "CameraType": 1
   },
   {
     "Latitude": 41.321312,
     "Longitude": 69.29673,
-    "TotalPunishments": 7,
-    "LastPunishmentDate": "2025-01-17T00:00:00",
+    "TotalPunishments": 20,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
     "CameraType": 1
   },
   {
-    "Latitude": 41.299941,
-    "Longitude": 69.249342,
-    "TotalPunishments": 18,
-    "LastPunishmentDate": "2025-01-17T00:00:00",
+    "Latitude": 41.285168,
+    "Longitude": 69.333388,
+    "TotalPunishments": 6,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.302685,
+    "Longitude": 69.171806,
+    "TotalPunishments": 8,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 41.277855,
+    "Longitude": 69.340126,
+    "TotalPunishments": 6,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 41.169573,
+    "Longitude": 69.287342,
+    "TotalPunishments": 11,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.217175,
+    "Longitude": 69.21859,
+    "TotalPunishments": 23,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 41.29994,
+    "Longitude": 69.249357,
+    "TotalPunishments": 134,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.385475,
+    "Longitude": 69.21312,
+    "TotalPunishments": 24,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
     "CameraType": 0
   },
   {
     "Latitude": 41.330826,
     "Longitude": 69.243095,
-    "TotalPunishments": 13,
-    "LastPunishmentDate": "2025-01-17T00:00:00",
+    "TotalPunishments": 48,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
     "CameraType": 3
   },
   {
     "Latitude": 41.325081,
     "Longitude": 69.299492,
-    "TotalPunishments": 9,
-    "LastPunishmentDate": "2025-01-17T00:00:00",
-    "CameraType": 1
+    "TotalPunishments": 38,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 3
   },
   {
-    "Latitude": 41.208113,
-    "Longitude": 69.226848,
-    "TotalPunishments": 11,
-    "LastPunishmentDate": "2025-01-17T00:00:00",
+    "Latitude": 41.219134,
+    "Longitude": 69.224438,
+    "TotalPunishments": 26,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 3
+  },
+  {
+    "Latitude": 41.20812,
+    "Longitude": 69.226846,
+    "TotalPunishments": 99,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
     "CameraType": 0
   },
   {
     "Latitude": 41.316896,
     "Longitude": 69.210269,
-    "TotalPunishments": 7,
-    "LastPunishmentDate": "2025-01-17T00:00:00",
-    "CameraType": 1
+    "TotalPunishments": 13,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 3
   },
   {
     "Latitude": 41.214181,
     "Longitude": 69.228297,
-    "TotalPunishments": 12,
-    "LastPunishmentDate": "2025-01-17T00:00:00",
+    "TotalPunishments": 69,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
     "CameraType": 1
   },
   {
     "Latitude": 41.33467,
     "Longitude": 69.264562,
-    "TotalPunishments": 7,
-    "LastPunishmentDate": "2025-01-17T00:00:00",
+    "TotalPunishments": 28,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 3
+  },
+  {
+    "Latitude": 41.282852,
+    "Longitude": 69.164358,
+    "TotalPunishments": 48,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
     "CameraType": 3
   },
   {
     "Latitude": 41.253367,
     "Longitude": 69.217058,
-    "TotalPunishments": 19,
-    "LastPunishmentDate": "2025-01-17T00:00:00",
-    "CameraType": 1
+    "TotalPunishments": 128,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 3
   },
   {
     "Latitude": 41.281836,
     "Longitude": 69.350435,
-    "TotalPunishments": 6,
-    "LastPunishmentDate": "2025-01-17T00:00:00",
+    "TotalPunishments": 16,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
     "CameraType": 1
   },
   {
-    "Latitude": 41.267091,
-    "Longitude": 69.249536,
-    "TotalPunishments": 16,
-    "LastPunishmentDate": "2025-01-17T00:00:00",
+    "Latitude": 41.267103,
+    "Longitude": 69.249535,
+    "TotalPunishments": 162,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
     "CameraType": 0
   },
   {
-    "Latitude": 41.368822,
-    "Longitude": 69.186757,
-    "TotalPunishments": 16,
-    "LastPunishmentDate": "2025-01-17T00:00:00",
+    "Latitude": 41.368851,
+    "Longitude": 69.186777,
+    "TotalPunishments": 71,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
     "CameraType": 0
   },
   {
     "Latitude": 41.335754,
     "Longitude": 69.174889,
-    "TotalPunishments": 9,
-    "LastPunishmentDate": "2025-01-17T00:00:00",
+    "TotalPunishments": 19,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 41.305181,
+    "Longitude": 69.1578,
+    "TotalPunishments": 6,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
     "CameraType": 1
   },
   {
     "Latitude": 41.349419,
     "Longitude": 69.178691,
-    "TotalPunishments": 6,
-    "LastPunishmentDate": "2025-01-17T00:00:00",
+    "TotalPunishments": 23,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
     "CameraType": 1
+  },
+  {
+    "Latitude": 41.315521,
+    "Longitude": 69.154892,
+    "TotalPunishments": 8,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.3428,
+    "Longitude": 69.257347,
+    "TotalPunishments": 7,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
   },
   {
     "Latitude": 41.309584,
     "Longitude": 69.305176,
-    "TotalPunishments": 7,
-    "LastPunishmentDate": "2025-01-17T00:00:00",
-    "CameraType": 1
+    "TotalPunishments": 37,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 3
+  },
+  {
+    "Latitude": 41.221989,
+    "Longitude": 69.222694,
+    "TotalPunishments": 12,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 3
   },
   {
     "Latitude": 41.252684,
     "Longitude": 69.322559,
-    "TotalPunishments": 5,
-    "LastPunishmentDate": "2025-01-17T00:00:00",
+    "TotalPunishments": 42,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
     "CameraType": 1
+  },
+  {
+    "Latitude": 41.244427,
+    "Longitude": 69.289352,
+    "TotalPunishments": 28,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 3
+  },
+  {
+    "Latitude": 41.166024,
+    "Longitude": 69.250096,
+    "TotalPunishments": 60,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.267923,
+    "Longitude": 69.182249,
+    "TotalPunishments": 20,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 41.14318,
+    "Longitude": 69.088646,
+    "TotalPunishments": 12,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
   },
   {
     "Latitude": 41.281682,
     "Longitude": 69.180663,
-    "TotalPunishments": 8,
-    "LastPunishmentDate": "2025-01-17T00:00:00",
+    "TotalPunishments": 28,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
     "CameraType": 3
   },
   {
     "Latitude": 41.283426,
     "Longitude": 69.339776,
-    "TotalPunishments": 5,
-    "LastPunishmentDate": "2025-01-17T00:00:00",
+    "TotalPunishments": 10,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
     "CameraType": 1
   },
   {
     "Latitude": 41.421878,
-    "Longitude": 69.578983,
-    "TotalPunishments": 6,
-    "LastPunishmentDate": "2025-01-17T00:00:00",
+    "Longitude": 69.578984,
+    "TotalPunishments": 82,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
     "CameraType": 0
   },
   {
     "Latitude": 41.348209,
     "Longitude": 69.19793,
-    "TotalPunishments": 10,
-    "LastPunishmentDate": "2025-01-17T00:00:00",
-    "CameraType": 1
+    "TotalPunishments": 47,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 3
   },
   {
-    "Latitude": 41.372338,
-    "Longitude": 69.224983,
-    "TotalPunishments": 6,
-    "LastPunishmentDate": "2025-01-17T00:00:00",
+    "Latitude": 41.37015,
+    "Longitude": 69.42291,
+    "TotalPunishments": 7,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
     "CameraType": 0
+  },
+  {
+    "Latitude": 41.354123,
+    "Longitude": 69.313012,
+    "TotalPunishments": 15,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.372341,
+    "Longitude": 69.224996,
+    "TotalPunishments": 44,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.551968,
+    "Longitude": 69.717048,
+    "TotalPunishments": 12,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.244152,
+    "Longitude": 69.232681,
+    "TotalPunishments": 23,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 3
   },
   {
     "Latitude": 41.324676,
     "Longitude": 69.206224,
-    "TotalPunishments": 9,
+    "TotalPunishments": 12,
     "LastPunishmentDate": "2025-01-17T00:00:00",
     "CameraType": 1
+  },
+  {
+    "Latitude": 41.181417,
+    "Longitude": 69.406945,
+    "TotalPunishments": 27,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.591195,
+    "Longitude": 69.857571,
+    "TotalPunishments": 5,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.303421,
+    "Longitude": 69.163574,
+    "TotalPunishments": 9,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 41.286638,
+    "Longitude": 69.185675,
+    "TotalPunishments": 19,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 3
+  },
+  {
+    "Latitude": 41.520561,
+    "Longitude": 69.671829,
+    "TotalPunishments": 13,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
   },
   {
     "Latitude": 41.304903,
     "Longitude": 69.208236,
-    "TotalPunishments": 7,
-    "LastPunishmentDate": "2025-01-17T00:00:00",
-    "CameraType": 1
+    "TotalPunishments": 23,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 3
   },
   {
     "Latitude": 41.28487,
     "Longitude": 69.291229,
-    "TotalPunishments": 7,
-    "LastPunishmentDate": "2025-01-17T00:00:00",
+    "TotalPunishments": 18,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
     "CameraType": 3
   },
   {
-    "Latitude": 41.269961,
-    "Longitude": 69.263325,
-    "TotalPunishments": 11,
-    "LastPunishmentDate": "2025-01-17T00:00:00",
+    "Latitude": 41.357132,
+    "Longitude": 69.242447,
+    "TotalPunishments": 10,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 3
+  },
+  {
+    "Latitude": 40.960646,
+    "Longitude": 69.943368,
+    "TotalPunishments": 77,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
     "CameraType": 0
+  },
+  {
+    "Latitude": 41.574264,
+    "Longitude": 69.824384,
+    "TotalPunishments": 11,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.269982,
+    "Longitude": 69.263282,
+    "TotalPunishments": 79,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.200423,
+    "Longitude": 69.107184,
+    "TotalPunishments": 129,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.33987,
+    "Longitude": 69.227401,
+    "TotalPunishments": 24,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.155659,
+    "Longitude": 69.424189,
+    "TotalPunishments": 177,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.292409,
+    "Longitude": 69.286177,
+    "TotalPunishments": 32,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 41.3431,
+    "Longitude": 69.338954,
+    "TotalPunishments": 23,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 3
+  },
+  {
+    "Latitude": 41.355705,
+    "Longitude": 69.226753,
+    "TotalPunishments": 11,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 41.278832,
+    "Longitude": 69.177497,
+    "TotalPunishments": 24,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 3
   },
   {
     "Latitude": 41.369302,
     "Longitude": 69.225104,
-    "TotalPunishments": 6,
-    "LastPunishmentDate": "2025-01-17T00:00:00",
+    "TotalPunishments": 17,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 3
+  },
+  {
+    "Latitude": 41.24871,
+    "Longitude": 69.21784,
+    "TotalPunishments": 8,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 41.256059,
+    "Longitude": 69.191888,
+    "TotalPunishments": 26,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
     "CameraType": 1
   },
   {
     "Latitude": 41.33894,
     "Longitude": 69.242142,
-    "TotalPunishments": 6,
-    "LastPunishmentDate": "2025-01-17T00:00:00",
+    "TotalPunishments": 21,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 3
+  },
+  {
+    "Latitude": 41.26573,
+    "Longitude": 69.267636,
+    "TotalPunishments": 5,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
     "CameraType": 1
+  },
+  {
+    "Latitude": 41.244625,
+    "Longitude": 69.250543,
+    "TotalPunishments": 14,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 3
   },
   {
     "Latitude": 41.354588,
     "Longitude": 69.333939,
-    "TotalPunishments": 6,
-    "LastPunishmentDate": "2025-01-17T00:00:00",
+    "TotalPunishments": 28,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 3
+  },
+  {
+    "Latitude": 41.295327,
+    "Longitude": 69.176409,
+    "TotalPunishments": 21,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
     "CameraType": 1
   },
   {
-    "Latitude": 41.360122,
-    "Longitude": 69.173013,
-    "TotalPunishments": 7,
-    "LastPunishmentDate": "2025-01-17T00:00:00",
+    "Latitude": 41.293916,
+    "Longitude": 69.34044,
+    "TotalPunishments": 12,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
     "CameraType": 0
   },
   {
-    "Latitude": 41.344368,
-    "Longitude": 69.212892,
-    "TotalPunishments": 6,
-    "LastPunishmentDate": "2025-01-17T00:00:00",
+    "Latitude": 41.36009,
+    "Longitude": 69.173011,
+    "TotalPunishments": 35,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
     "CameraType": 0
   },
   {
-    "Latitude": 41.268718,
-    "Longitude": 69.321816,
+    "Latitude": 41.342355,
+    "Longitude": 69.332858,
+    "TotalPunishments": 9,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 3
+  },
+  {
+    "Latitude": 41.344351,
+    "Longitude": 69.212912,
+    "TotalPunishments": 31,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.268751,
+    "Longitude": 69.321865,
+    "TotalPunishments": 19,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.263038,
+    "Longitude": 69.229004,
+    "TotalPunishments": 90,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.341961,
+    "Longitude": 69.23756,
+    "TotalPunishments": 9,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.332523,
+    "Longitude": 69.263458,
+    "TotalPunishments": 11,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 3
+  },
+  {
+    "Latitude": 41.270172,
+    "Longitude": 69.146868,
     "TotalPunishments": 5,
-    "LastPunishmentDate": "2025-01-17T00:00:00",
+    "LastPunishmentDate": "2025-01-18T00:00:00",
     "CameraType": 0
   },
   {
-    "Latitude": 41.263047,
-    "Longitude": 69.228991,
-    "TotalPunishments": 5,
-    "LastPunishmentDate": "2025-01-17T00:00:00",
-    "CameraType": 0
+    "Latitude": 41.318863,
+    "Longitude": 69.196365,
+    "TotalPunishments": 10,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 41.337471,
+    "Longitude": 69.330093,
+    "TotalPunishments": 35,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 3
   },
   {
     "Latitude": 41.290088,
     "Longitude": 69.180858,
-    "TotalPunishments": 6,
-    "LastPunishmentDate": "2025-01-17T00:00:00",
+    "TotalPunishments": 24,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 3
+  },
+  {
+    "Latitude": 41.291506,
+    "Longitude": 69.179454,
+    "TotalPunishments": 23,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 3
+  },
+  {
+    "Latitude": 41.26714,
+    "Longitude": 69.249468,
+    "TotalPunishments": 46,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.345133,
+    "Longitude": 69.213299,
+    "TotalPunishments": 29,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.293993,
+    "Longitude": 69.289065,
+    "TotalPunishments": 27,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
     "CameraType": 1
   },
   {
-    "Latitude": 41.345142,
-    "Longitude": 69.213316,
+    "Latitude": 41.34058,
+    "Longitude": 69.216959,
+    "TotalPunishments": 5,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.39825,
+    "Longitude": 69.23773,
     "TotalPunishments": 6,
-    "LastPunishmentDate": "2025-01-17T00:00:00",
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.238725,
+    "Longitude": 69.21093,
+    "TotalPunishments": 5,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.341889,
+    "Longitude": 69.237165,
+    "TotalPunishments": 7,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.311924,
+    "Longitude": 69.291756,
+    "TotalPunishments": 14,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 41.266773,
+    "Longitude": 69.174428,
+    "TotalPunishments": 16,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 41.309231,
+    "Longitude": 69.167603,
+    "TotalPunishments": 14,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 41.365508,
+    "Longitude": 69.181513,
+    "TotalPunishments": 21,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.267665,
+    "Longitude": 69.366831,
+    "TotalPunishments": 29,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 3
+  },
+  {
+    "Latitude": 41.27817,
+    "Longitude": 69.321871,
+    "TotalPunishments": 6,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.244673,
+    "Longitude": 69.25622,
+    "TotalPunishments": 32,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 41.276793,
+    "Longitude": 69.17237,
+    "TotalPunishments": 13,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 3
+  },
+  {
+    "Latitude": 41.298321,
+    "Longitude": 69.259003,
+    "TotalPunishments": 10,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 41.304427,
+    "Longitude": 69.281796,
+    "TotalPunishments": 8,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.336082,
+    "Longitude": 69.233635,
+    "TotalPunishments": 11,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 3
+  },
+  {
+    "Latitude": 41.295653,
+    "Longitude": 69.22712,
+    "TotalPunishments": 22,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.244123,
+    "Longitude": 69.284861,
+    "TotalPunishments": 17,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.210992,
+    "Longitude": 69.344862,
+    "TotalPunishments": 50,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.335825,
+    "Longitude": 69.315943,
+    "TotalPunishments": 29,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.343295,
+    "Longitude": 69.499617,
+    "TotalPunishments": 10,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.311192,
+    "Longitude": 69.176163,
+    "TotalPunishments": 9,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 3
+  },
+  {
+    "Latitude": 41.243904,
+    "Longitude": 69.224274,
+    "TotalPunishments": 51,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 41.2998,
+    "Longitude": 69.1674,
+    "TotalPunishments": 9,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 3
+  },
+  {
+    "Latitude": 40.715677,
+    "Longitude": 69.052065,
+    "TotalPunishments": 6,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
     "CameraType": 0
   },
   {
@@ -506,7 +1192,7 @@
   {
     "Latitude": 41.209983,
     "Longitude": 69.231747,
-    "TotalPunishments": 62,
+    "TotalPunishments": 64,
     "LastPunishmentDate": "2025-01-17T00:00:00",
     "CameraType": 1
   },
@@ -541,7 +1227,7 @@
   {
     "Latitude": 41.282031,
     "Longitude": 69.192889,
-    "TotalPunishments": 22,
+    "TotalPunishments": 23,
     "LastPunishmentDate": "2025-01-17T00:00:00",
     "CameraType": 1
   },
@@ -562,8 +1248,4460 @@
   {
     "Latitude": 41.278719,
     "Longitude": 69.198639,
+    "TotalPunishments": 8,
+    "LastPunishmentDate": "2025-01-17T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 40.359397,
+    "Longitude": 68.14147,
+    "TotalPunishments": 24,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.290279,
+    "Longitude": 69.149915,
+    "TotalPunishments": 20,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 40.393005,
+    "Longitude": 71.480874,
+    "TotalPunishments": 12,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.274024,
+    "Longitude": 69.240949,
+    "TotalPunishments": 14,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 39.207649,
+    "Longitude": 66.242142,
+    "TotalPunishments": 42,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.25952,
+    "Longitude": 69.318523,
+    "TotalPunishments": 31,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 39.92036,
+    "Longitude": 66.858481,
+    "TotalPunishments": 61,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 41.285922,
+    "Longitude": 69.303792,
+    "TotalPunishments": 17,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.34864,
+    "Longitude": 69.237761,
+    "TotalPunishments": 13,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 37.967188,
+    "Longitude": 67.02015,
+    "TotalPunishments": 34,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.582476,
+    "Longitude": 71.376213,
+    "TotalPunishments": 12,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 39.97801,
+    "Longitude": 67.563895,
+    "TotalPunishments": 102,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.352407,
+    "Longitude": 68.133234,
+    "TotalPunishments": 36,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.341662,
+    "Longitude": 69.236484,
+    "TotalPunishments": 7,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 37.254823,
+    "Longitude": 67.329164,
+    "TotalPunishments": 39,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.298424,
+    "Longitude": 69.24987,
+    "TotalPunishments": 19,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 3
+  },
+  {
+    "Latitude": 41.347977,
+    "Longitude": 69.246682,
+    "TotalPunishments": 8,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 38.948427,
+    "Longitude": 66.590545,
+    "TotalPunishments": 18,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 39.227419,
+    "Longitude": 66.249628,
+    "TotalPunishments": 19,
+    "LastPunishmentDate": "2025-01-17T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.580938,
+    "Longitude": 71.321212,
+    "TotalPunishments": 5,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.244566,
+    "Longitude": 69.272779,
+    "TotalPunishments": 14,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.124336,
+    "Longitude": 67.840538,
+    "TotalPunishments": 9,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 3
+  },
+  {
+    "Latitude": 40.580735,
+    "Longitude": 71.321691,
+    "TotalPunishments": 38,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.585803,
+    "Longitude": 71.391559,
+    "TotalPunishments": 108,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.00699,
+    "Longitude": 64.5238,
+    "TotalPunishments": 6,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.217776,
+    "Longitude": 69.250106,
+    "TotalPunishments": 5,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.174053,
+    "Longitude": 69.210025,
+    "TotalPunishments": 13,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.039301,
+    "Longitude": 67.648252,
+    "TotalPunishments": 325,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 39.131902,
+    "Longitude": 66.881277,
+    "TotalPunishments": 22,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.241708,
+    "Longitude": 69.216967,
+    "TotalPunishments": 7,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.636084,
+    "Longitude": 71.646484,
+    "TotalPunishments": 19,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.140232,
+    "Longitude": 67.830397,
+    "TotalPunishments": 22,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 3
+  },
+  {
+    "Latitude": 41.365911,
+    "Longitude": 69.394892,
+    "TotalPunishments": 9,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 40.109144,
+    "Longitude": 67.857849,
+    "TotalPunishments": 10,
+    "LastPunishmentDate": "2025-01-17T00:00:00",
+    "CameraType": 3
+  },
+  {
+    "Latitude": 40.934596,
+    "Longitude": 68.76236,
+    "TotalPunishments": 6,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 40.068074,
+    "Longitude": 67.874745,
+    "TotalPunishments": 128,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.089094,
+    "Longitude": 64.661566,
+    "TotalPunishments": 13,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 38.393593,
+    "Longitude": 67.868855,
+    "TotalPunishments": 9,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 39.765171,
+    "Longitude": 66.913451,
+    "TotalPunishments": 30,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.018153,
+    "Longitude": 67.610035,
+    "TotalPunishments": 164,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.26038,
+    "Longitude": 69.173309,
+    "TotalPunishments": 15,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 39.912427,
+    "Longitude": 66.665068,
+    "TotalPunishments": 19,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.195377,
+    "Longitude": 69.187525,
+    "TotalPunishments": 5,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 39.75526,
+    "Longitude": 64.461568,
+    "TotalPunishments": 28,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 3
+  },
+  {
+    "Latitude": 41.341798,
+    "Longitude": 69.241962,
+    "TotalPunishments": 7,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 41.24923,
+    "Longitude": 69.301659,
+    "TotalPunishments": 5,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 39.042728,
+    "Longitude": 66.82479,
+    "TotalPunishments": 30,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 38.85038,
+    "Longitude": 65.930146,
+    "TotalPunishments": 9,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 38.707225,
+    "Longitude": 66.239987,
+    "TotalPunishments": 23,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 38.968819,
+    "Longitude": 66.686703,
+    "TotalPunishments": 29,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 40.071386,
+    "Longitude": 67.894976,
+    "TotalPunishments": 117,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.329727,
+    "Longitude": 69.234876,
+    "TotalPunishments": 33,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 37.457237,
+    "Longitude": 67.152264,
+    "TotalPunishments": 22,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 41.259942,
+    "Longitude": 69.180929,
+    "TotalPunishments": 17,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 37.244659,
+    "Longitude": 67.275845,
+    "TotalPunishments": 32,
+    "LastPunishmentDate": "2025-01-17T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 37.961743,
+    "Longitude": 67.023823,
+    "TotalPunishments": 28,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 39.21928,
+    "Longitude": 66.246112,
+    "TotalPunishments": 30,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.701226,
+    "Longitude": 71.031343,
+    "TotalPunishments": 14,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.355886,
+    "Longitude": 69.218379,
+    "TotalPunishments": 11,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 41.361332,
+    "Longitude": 69.225265,
+    "TotalPunishments": 5,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 41.36456,
+    "Longitude": 69.22523,
+    "TotalPunishments": 5,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 40.582542,
+    "Longitude": 71.376279,
+    "TotalPunishments": 23,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.074939,
+    "Longitude": 69.473863,
+    "TotalPunishments": 139,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.371481,
+    "Longitude": 69.254195,
+    "TotalPunishments": 13,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 41.439281,
+    "Longitude": 69.550319,
+    "TotalPunishments": 5,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 41.292996,
+    "Longitude": 69.263699,
+    "TotalPunishments": 6,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 41.017476,
+    "Longitude": 68.940724,
+    "TotalPunishments": 5,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 41.314251,
+    "Longitude": 69.526803,
+    "TotalPunishments": 11,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 3
+  },
+  {
+    "Latitude": 41.356753,
+    "Longitude": 69.12979,
+    "TotalPunishments": 7,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 41.126362,
+    "Longitude": 69.066376,
+    "TotalPunishments": 5,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 41.315149,
+    "Longitude": 69.517832,
+    "TotalPunishments": 5,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 40.34542,
+    "Longitude": 69.23946,
+    "TotalPunishments": 24,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 3
+  },
+  {
+    "Latitude": 40.975616,
+    "Longitude": 69.36995,
+    "TotalPunishments": 8,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 41.115841,
+    "Longitude": 69.05561,
+    "TotalPunishments": 9,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 40.845762,
+    "Longitude": 69.617064,
+    "TotalPunishments": 8,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 41.038567,
+    "Longitude": 69.026878,
+    "TotalPunishments": 16,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 41.330462,
+    "Longitude": 69.232779,
+    "TotalPunishments": 8,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 40.909145,
+    "Longitude": 69.758142,
+    "TotalPunishments": 195,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.8548,
+    "Longitude": 68.931314,
+    "TotalPunishments": 13,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 40.950863,
+    "Longitude": 69.915925,
+    "TotalPunishments": 6,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.394841,
+    "Longitude": 69.206079,
+    "TotalPunishments": 5,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 38.977306,
+    "Longitude": 66.687537,
+    "TotalPunishments": 26,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 41.293954,
+    "Longitude": 69.679912,
+    "TotalPunishments": 5,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 41.433752,
+    "Longitude": 69.543904,
+    "TotalPunishments": 8,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 41.341809,
+    "Longitude": 69.26704,
+    "TotalPunishments": 7,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 41.260519,
+    "Longitude": 69.361899,
+    "TotalPunishments": 9,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.362545,
+    "Longitude": 68.144772,
+    "TotalPunishments": 15,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.907748,
+    "Longitude": 69.79865,
+    "TotalPunishments": 158,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.911378,
+    "Longitude": 69.009982,
+    "TotalPunishments": 5,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 41.257859,
+    "Longitude": 69.37928,
+    "TotalPunishments": 9,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 41.473171,
+    "Longitude": 69.58642,
+    "TotalPunishments": 10,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 41.390492,
+    "Longitude": 69.464985,
+    "TotalPunishments": 12,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 3
+  },
+  {
+    "Latitude": 41.427596,
+    "Longitude": 69.534797,
+    "TotalPunishments": 27,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.354341,
+    "Longitude": 69.140778,
+    "TotalPunishments": 9,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 40.929903,
+    "Longitude": 69.863324,
+    "TotalPunishments": 661,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.08585,
+    "Longitude": 68.945788,
+    "TotalPunishments": 121,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.377512,
+    "Longitude": 69.350137,
+    "TotalPunishments": 5,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 3
+  },
+  {
+    "Latitude": 41.12243,
+    "Longitude": 69.062412,
+    "TotalPunishments": 7,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 40.938414,
+    "Longitude": 69.898032,
+    "TotalPunishments": 368,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.240867,
+    "Longitude": 69.170279,
+    "TotalPunishments": 30,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.436349,
+    "Longitude": 69.545341,
+    "TotalPunishments": 7,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 41.07018,
+    "Longitude": 69.47388,
+    "TotalPunishments": 9,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.351065,
+    "Longitude": 69.324439,
+    "TotalPunishments": 5,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 41.39841,
+    "Longitude": 69.204647,
+    "TotalPunishments": 15,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 3
+  },
+  {
+    "Latitude": 41.302434,
+    "Longitude": 69.641862,
+    "TotalPunishments": 6,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 41.337967,
+    "Longitude": 69.274098,
+    "TotalPunishments": 10,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 41.01508,
+    "Longitude": 69.047232,
+    "TotalPunishments": 5,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 3
+  },
+  {
+    "Latitude": 40.98358,
+    "Longitude": 69.048038,
+    "TotalPunishments": 9,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 41.009465,
+    "Longitude": 70.078743,
+    "TotalPunishments": 6,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 41.232674,
+    "Longitude": 69.508048,
+    "TotalPunishments": 5,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 40.877777,
+    "Longitude": 69.592266,
+    "TotalPunishments": 7,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.461693,
+    "Longitude": 69.565145,
+    "TotalPunishments": 33,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 41.174262,
+    "Longitude": 69.070168,
+    "TotalPunishments": 23,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.285747,
+    "Longitude": 69.690038,
+    "TotalPunishments": 5,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 41.282813,
+    "Longitude": 69.237979,
+    "TotalPunishments": 5,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 41.293802,
+    "Longitude": 69.454865,
+    "TotalPunishments": 7,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.954783,
+    "Longitude": 69.565304,
+    "TotalPunishments": 176,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.042278,
+    "Longitude": 69.496977,
+    "TotalPunishments": 149,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.853591,
+    "Longitude": 69.595778,
+    "TotalPunishments": 9,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.45387,
+    "Longitude": 69.556483,
+    "TotalPunishments": 16,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 41.2703,
+    "Longitude": 69.264668,
+    "TotalPunishments": 10,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 41.109666,
+    "Longitude": 68.97976,
+    "TotalPunishments": 73,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.251346,
+    "Longitude": 69.370082,
+    "TotalPunishments": 8,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 39.509315,
+    "Longitude": 66.512897,
+    "TotalPunishments": 34,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.509443,
+    "Longitude": 69.627132,
+    "TotalPunishments": 6,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 41.241902,
+    "Longitude": 69.349626,
+    "TotalPunishments": 5,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 41.407404,
+    "Longitude": 69.501614,
+    "TotalPunishments": 7,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 3
+  },
+  {
+    "Latitude": 40.933633,
+    "Longitude": 70.69892,
+    "TotalPunishments": 167,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 37.60277,
+    "Longitude": 67.05914,
+    "TotalPunishments": 10,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.10796,
+    "Longitude": 70.502649,
+    "TotalPunishments": 173,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.994789,
+    "Longitude": 71.633927,
+    "TotalPunishments": 81,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 39.430451,
+    "Longitude": 66.4132,
+    "TotalPunishments": 12,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.884584,
+    "Longitude": 70.779483,
+    "TotalPunishments": 12,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.106848,
+    "Longitude": 70.505867,
+    "TotalPunishments": 176,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 38.86237,
+    "Longitude": 65.787799,
+    "TotalPunishments": 26,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 41.084408,
+    "Longitude": 70.540144,
+    "TotalPunishments": 455,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.075189,
+    "Longitude": 70.556291,
+    "TotalPunishments": 271,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 39.106101,
+    "Longitude": 66.857034,
+    "TotalPunishments": 39,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 41.006229,
+    "Longitude": 71.631088,
+    "TotalPunishments": 82,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.946376,
+    "Longitude": 70.682948,
+    "TotalPunishments": 24,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 38.822039,
+    "Longitude": 65.654201,
+    "TotalPunishments": 29,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 41.000534,
+    "Longitude": 70.632934,
+    "TotalPunishments": 204,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.015121,
+    "Longitude": 71.758754,
+    "TotalPunishments": 17,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 37.793612,
+    "Longitude": 67.013805,
+    "TotalPunishments": 69,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 37.572233,
+    "Longitude": 67.090942,
+    "TotalPunishments": 43,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.72584,
+    "Longitude": 72.726996,
+    "TotalPunishments": 5,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.636956,
+    "Longitude": 71.652276,
+    "TotalPunishments": 9,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.898863,
+    "Longitude": 69.692115,
+    "TotalPunishments": 286,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.651637,
+    "Longitude": 71.138258,
+    "TotalPunishments": 6,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 39.507591,
+    "Longitude": 66.510295,
+    "TotalPunishments": 100,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.991857,
+    "Longitude": 71.59931,
+    "TotalPunishments": 22,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 39.038743,
+    "Longitude": 66.727623,
+    "TotalPunishments": 26,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 39.891417,
+    "Longitude": 64.305231,
+    "TotalPunishments": 21,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 38.92477,
+    "Longitude": 65.411523,
+    "TotalPunishments": 30,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 40.727356,
+    "Longitude": 72.102822,
+    "TotalPunishments": 5,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.08592,
+    "Longitude": 70.323562,
+    "TotalPunishments": 82,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 39.702892,
+    "Longitude": 66.950323,
+    "TotalPunishments": 114,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.024374,
+    "Longitude": 69.50995,
+    "TotalPunishments": 56,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 37.706865,
+    "Longitude": 67.493793,
+    "TotalPunishments": 6,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 39.053759,
+    "Longitude": 66.835168,
+    "TotalPunishments": 34,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.125401,
+    "Longitude": 69.318987,
+    "TotalPunishments": 10,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.140952,
+    "Longitude": 70.451654,
+    "TotalPunishments": 31,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 38.621304,
+    "Longitude": 66.251627,
+    "TotalPunishments": 55,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 41.013148,
+    "Longitude": 71.609076,
+    "TotalPunishments": 5,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 39.942394,
+    "Longitude": 66.038014,
+    "TotalPunishments": 30,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.861046,
+    "Longitude": 70.786314,
+    "TotalPunishments": 38,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.884365,
+    "Longitude": 70.77968,
+    "TotalPunishments": 29,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 39.673885,
+    "Longitude": 67.02422,
+    "TotalPunishments": 50,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 38.945014,
+    "Longitude": 66.811985,
+    "TotalPunishments": 5,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.996997,
+    "Longitude": 71.579301,
+    "TotalPunishments": 26,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.29269,
+    "Longitude": 71.68184,
+    "TotalPunishments": 22,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.002078,
+    "Longitude": 71.583472,
+    "TotalPunishments": 96,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 39.924466,
+    "Longitude": 64.483957,
+    "TotalPunishments": 7,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.85611,
+    "Longitude": 71.46415,
+    "TotalPunishments": 23,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 39.812054,
+    "Longitude": 67.369514,
+    "TotalPunishments": 16,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.72902,
+    "Longitude": 72.63813,
+    "TotalPunishments": 5,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.046209,
+    "Longitude": 69.356323,
+    "TotalPunishments": 12,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.741856,
+    "Longitude": 72.324917,
+    "TotalPunishments": 6,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.001854,
+    "Longitude": 71.503583,
+    "TotalPunishments": 90,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 39.769852,
+    "Longitude": 64.449967,
+    "TotalPunishments": 7,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 41.039989,
+    "Longitude": 68.880355,
+    "TotalPunishments": 33,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.009886,
+    "Longitude": 68.836984,
+    "TotalPunishments": 51,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 38.968393,
+    "Longitude": 66.715765,
+    "TotalPunishments": 10,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 38.822123,
+    "Longitude": 65.66144,
+    "TotalPunishments": 15,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 41.060322,
+    "Longitude": 69.347835,
+    "TotalPunishments": 22,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 39.935911,
+    "Longitude": 66.558023,
+    "TotalPunishments": 51,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.41362,
+    "Longitude": 71.777324,
+    "TotalPunishments": 40,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 3
+  },
+  {
+    "Latitude": 37.71323,
+    "Longitude": 67.500649,
+    "TotalPunishments": 31,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.501781,
+    "Longitude": 71.050936,
+    "TotalPunishments": 14,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.363054,
+    "Longitude": 71.489823,
+    "TotalPunishments": 17,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 38.841884,
+    "Longitude": 66.241181,
+    "TotalPunishments": 13,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 37.250939,
+    "Longitude": 67.23679,
+    "TotalPunishments": 7,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 39.685251,
+    "Longitude": 66.896608,
+    "TotalPunishments": 35,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.106845,
+    "Longitude": 67.835207,
+    "TotalPunishments": 41,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 40.87127,
+    "Longitude": 71.45571,
+    "TotalPunishments": 31,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.92923,
+    "Longitude": 71.68348,
+    "TotalPunishments": 9,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.967747,
+    "Longitude": 69.973337,
+    "TotalPunishments": 11,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.997546,
+    "Longitude": 71.596824,
+    "TotalPunishments": 10,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.141741,
+    "Longitude": 65.389338,
+    "TotalPunishments": 45,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.884582,
+    "Longitude": 70.7795,
+    "TotalPunishments": 5,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.725717,
+    "Longitude": 72.726006,
+    "TotalPunishments": 9,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 39.870685,
+    "Longitude": 66.765417,
+    "TotalPunishments": 30,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 38.925766,
+    "Longitude": 65.47823,
+    "TotalPunishments": 12,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 39.22761,
+    "Longitude": 66.24977,
+    "TotalPunishments": 16,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 39.803798,
+    "Longitude": 66.862323,
+    "TotalPunishments": 87,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 39.707762,
+    "Longitude": 66.651168,
+    "TotalPunishments": 90,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 3
+  },
+  {
+    "Latitude": 41.020366,
+    "Longitude": 71.636657,
+    "TotalPunishments": 26,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 38.969249,
+    "Longitude": 66.682266,
+    "TotalPunishments": 33,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.593139,
+    "Longitude": 72.331913,
+    "TotalPunishments": 6,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.126485,
+    "Longitude": 65.462753,
+    "TotalPunishments": 24,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 38.96422,
+    "Longitude": 66.614157,
+    "TotalPunishments": 5,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.997372,
+    "Longitude": 71.577162,
+    "TotalPunishments": 148,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 3
+  },
+  {
+    "Latitude": 37.455,
+    "Longitude": 67.140804,
+    "TotalPunishments": 30,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 39.206775,
+    "Longitude": 66.241989,
+    "TotalPunishments": 35,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.652276,
+    "Longitude": 72.258323,
+    "TotalPunishments": 36,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.26956,
+    "Longitude": 71.755971,
+    "TotalPunishments": 30,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 38.857635,
+    "Longitude": 65.904906,
+    "TotalPunishments": 8,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.908305,
+    "Longitude": 69.768455,
+    "TotalPunishments": 26,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 3
+  },
+  {
+    "Latitude": 40.996817,
+    "Longitude": 71.638326,
+    "TotalPunishments": 8,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.991297,
+    "Longitude": 71.59987,
+    "TotalPunishments": 7,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 37.998777,
+    "Longitude": 67.774138,
+    "TotalPunishments": 10,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 39.666849,
+    "Longitude": 66.994371,
+    "TotalPunishments": 19,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 38.827025,
+    "Longitude": 65.787249,
+    "TotalPunishments": 41,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 37.59795,
+    "Longitude": 67.454448,
+    "TotalPunishments": 5,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 37.241832,
+    "Longitude": 67.24872,
+    "TotalPunishments": 5,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.038764,
+    "Longitude": 65.680051,
+    "TotalPunishments": 35,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.724867,
+    "Longitude": 72.720078,
+    "TotalPunishments": 5,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 39.762777,
+    "Longitude": 67.2729,
+    "TotalPunishments": 15,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 39.540006,
+    "Longitude": 66.574708,
+    "TotalPunishments": 54,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.973648,
+    "Longitude": 69.545596,
+    "TotalPunishments": 39,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.958717,
+    "Longitude": 68.764572,
+    "TotalPunishments": 13,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.13226,
+    "Longitude": 65.350367,
+    "TotalPunishments": 11,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.795423,
+    "Longitude": 72.198844,
+    "TotalPunishments": 12,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.062686,
+    "Longitude": 69.331044,
+    "TotalPunishments": 26,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 39.880124,
+    "Longitude": 64.318342,
+    "TotalPunishments": 5,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.581642,
+    "Longitude": 71.721571,
+    "TotalPunishments": 8,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.046272,
+    "Longitude": 71.720007,
+    "TotalPunishments": 6,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.987801,
+    "Longitude": 71.264929,
+    "TotalPunishments": 8,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.997947,
+    "Longitude": 71.641776,
+    "TotalPunishments": 8,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.401324,
+    "Longitude": 69.234869,
+    "TotalPunishments": 8,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.004287,
+    "Longitude": 71.612656,
+    "TotalPunishments": 5,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.040604,
+    "Longitude": 69.322295,
+    "TotalPunishments": 31,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.107337,
+    "Longitude": 70.334644,
+    "TotalPunishments": 21,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.00717,
+    "Longitude": 71.64084,
+    "TotalPunishments": 71,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 41.080196,
+    "Longitude": 71.666174,
+    "TotalPunishments": 5,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.133286,
+    "Longitude": 65.357684,
+    "TotalPunishments": 14,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 40.902698,
+    "Longitude": 71.832549,
+    "TotalPunishments": 6,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 39.037843,
+    "Longitude": 66.993902,
+    "TotalPunishments": 13,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.236428,
+    "Longitude": 69.188921,
+    "TotalPunishments": 9,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 41.407094,
+    "Longitude": 69.559448,
+    "TotalPunishments": 8,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.994293,
+    "Longitude": 71.228969,
+    "TotalPunishments": 58,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 39.045339,
+    "Longitude": 66.82711,
+    "TotalPunishments": 13,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 39.206491,
+    "Longitude": 66.241934,
+    "TotalPunishments": 8,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.007397,
+    "Longitude": 71.616467,
+    "TotalPunishments": 156,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 40.996089,
+    "Longitude": 71.631975,
+    "TotalPunishments": 6,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.003727,
+    "Longitude": 71.612022,
+    "TotalPunishments": 10,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.002936,
+    "Longitude": 71.611202,
+    "TotalPunishments": 6,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.802723,
+    "Longitude": 69.20832,
+    "TotalPunishments": 9,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.889539,
+    "Longitude": 69.59215,
+    "TotalPunishments": 9,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.174521,
+    "Longitude": 69.070432,
+    "TotalPunishments": 7,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.744987,
+    "Longitude": 69.142402,
+    "TotalPunishments": 7,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.443788,
+    "Longitude": 69.556396,
+    "TotalPunishments": 8,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.727959,
+    "Longitude": 72.107997,
+    "TotalPunishments": 6,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.724086,
+    "Longitude": 72.714091,
+    "TotalPunishments": 11,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 39.032096,
+    "Longitude": 65.599235,
+    "TotalPunishments": 9,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 3
+  },
+  {
+    "Latitude": 40.730204,
+    "Longitude": 72.762694,
+    "TotalPunishments": 5,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.809834,
+    "Longitude": 72.333328,
+    "TotalPunishments": 7135,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 40.869834,
+    "Longitude": 72.333164,
+    "TotalPunishments": 2013,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 40.773811,
+    "Longitude": 72.323527,
+    "TotalPunishments": 12,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.669922,
+    "Longitude": 72.560317,
+    "TotalPunishments": 63,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 3
+  },
+  {
+    "Latitude": 40.648383,
+    "Longitude": 72.235811,
+    "TotalPunishments": 35,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 3
+  },
+  {
+    "Latitude": 40.78336,
+    "Longitude": 72.346589,
+    "TotalPunishments": 5,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 40.765158,
+    "Longitude": 72.355342,
+    "TotalPunishments": 59,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 40.793762,
+    "Longitude": 72.331986,
+    "TotalPunishments": 30,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 40.659252,
+    "Longitude": 72.243167,
+    "TotalPunishments": 57,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 3
+  },
+  {
+    "Latitude": 41.514806,
+    "Longitude": 69.634142,
+    "TotalPunishments": 7,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.272087,
+    "Longitude": 69.43693,
+    "TotalPunishments": 11,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.929754,
+    "Longitude": 70.70883,
+    "TotalPunishments": 64,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.000042,
+    "Longitude": 71.611984,
+    "TotalPunishments": 9,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 3
+  },
+  {
+    "Latitude": 40.72786,
+    "Longitude": 72.10719,
+    "TotalPunishments": 9,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.586681,
+    "Longitude": 71.396348,
+    "TotalPunishments": 11,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.795738,
+    "Longitude": 72.195832,
+    "TotalPunishments": 5,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.565955,
+    "Longitude": 72.340854,
+    "TotalPunishments": 5,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.68724,
+    "Longitude": 71.082676,
+    "TotalPunishments": 5,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.126923,
+    "Longitude": 67.835823,
+    "TotalPunishments": 34,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 3
+  },
+  {
+    "Latitude": 40.168388,
+    "Longitude": 67.844063,
+    "TotalPunishments": 17,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 3
+  },
+  {
+    "Latitude": 40.795928,
+    "Longitude": 72.185043,
+    "TotalPunishments": 13,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.308373,
+    "Longitude": 67.964695,
+    "TotalPunishments": 26,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 3
+  },
+  {
+    "Latitude": 40.118816,
+    "Longitude": 67.829643,
+    "TotalPunishments": 9,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 40.590161,
+    "Longitude": 72.333078,
+    "TotalPunishments": 5,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.805756,
+    "Longitude": 72.344451,
+    "TotalPunishments": 8,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.124417,
+    "Longitude": 67.840495,
+    "TotalPunishments": 25,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 3
+  },
+  {
+    "Latitude": 40.125057,
+    "Longitude": 67.827484,
+    "TotalPunishments": 14,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 3
+  },
+  {
+    "Latitude": 40.752786,
+    "Longitude": 72.338596,
+    "TotalPunishments": 102,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 40.108906,
+    "Longitude": 67.821983,
+    "TotalPunishments": 12,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 39.644842,
+    "Longitude": 66.954869,
+    "TotalPunishments": 163,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 39.683717,
+    "Longitude": 66.899267,
+    "TotalPunishments": 257,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 40.755114,
+    "Longitude": 72.376032,
+    "TotalPunishments": 68,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 40.743937,
+    "Longitude": 72.327912,
+    "TotalPunishments": 37,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 40.758864,
+    "Longitude": 72.375841,
+    "TotalPunishments": 22,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 40.74554,
+    "Longitude": 72.340099,
+    "TotalPunishments": 19,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 40.760258,
+    "Longitude": 72.368827,
+    "TotalPunishments": 70,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 40.811718,
+    "Longitude": 72.332407,
+    "TotalPunishments": 33,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 40.793644,
+    "Longitude": 72.347553,
+    "TotalPunishments": 39,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 40.832963,
+    "Longitude": 72.3251,
+    "TotalPunishments": 40,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 40.768568,
+    "Longitude": 72.362766,
+    "TotalPunishments": 19,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 40.743876,
+    "Longitude": 72.340136,
+    "TotalPunishments": 31,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 40.78978,
+    "Longitude": 72.332047,
+    "TotalPunishments": 63,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 40.783347,
+    "Longitude": 72.332038,
+    "TotalPunishments": 16,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 40.7366,
+    "Longitude": 72.319589,
+    "TotalPunishments": 13,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 40.810945,
+    "Longitude": 72.324671,
+    "TotalPunishments": 18,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 40.766491,
+    "Longitude": 72.35825,
+    "TotalPunishments": 37,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 40.7794,
+    "Longitude": 72.353666,
+    "TotalPunishments": 30,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 40.758667,
+    "Longitude": 72.346044,
+    "TotalPunishments": 17,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 40.739361,
+    "Longitude": 72.321749,
+    "TotalPunishments": 31,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 40.809822,
+    "Longitude": 72.340083,
+    "TotalPunishments": 24,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 40.737161,
+    "Longitude": 72.318612,
+    "TotalPunishments": 53,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 40.743852,
+    "Longitude": 72.346112,
+    "TotalPunishments": 17,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 40.751171,
+    "Longitude": 72.346283,
+    "TotalPunishments": 18,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 40.754012,
+    "Longitude": 72.346186,
+    "TotalPunishments": 32,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 40.78338,
+    "Longitude": 72.316983,
+    "TotalPunishments": 32,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 40.810463,
+    "Longitude": 72.329065,
+    "TotalPunishments": 16,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 40.757054,
+    "Longitude": 72.343742,
+    "TotalPunishments": 43,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 40.765383,
+    "Longitude": 72.365455,
+    "TotalPunishments": 25,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 40.75193,
+    "Longitude": 72.337796,
+    "TotalPunishments": 45,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 40.753886,
+    "Longitude": 72.391011,
+    "TotalPunishments": 32,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 40.802173,
+    "Longitude": 72.332736,
+    "TotalPunishments": 17,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 40.769959,
+    "Longitude": 72.365859,
+    "TotalPunishments": 31,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 40.7297,
+    "Longitude": 72.332085,
+    "TotalPunishments": 8,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 40.743839,
+    "Longitude": 72.335545,
+    "TotalPunishments": 15,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 40.749468,
+    "Longitude": 72.368515,
+    "TotalPunishments": 14,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 40.767297,
+    "Longitude": 72.332045,
+    "TotalPunishments": 7,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 40.787297,
+    "Longitude": 72.332057,
+    "TotalPunishments": 29,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 40.814268,
+    "Longitude": 72.330958,
+    "TotalPunishments": 11,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 40.797295,
+    "Longitude": 72.332527,
+    "TotalPunishments": 10,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 40.816945,
+    "Longitude": 72.324671,
+    "TotalPunishments": 8,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 40.770529,
+    "Longitude": 72.361053,
+    "TotalPunishments": 6,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 39.660139,
+    "Longitude": 66.905665,
+    "TotalPunishments": 38,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 40.789585,
+    "Longitude": 72.349589,
+    "TotalPunishments": 9,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 39.687082,
+    "Longitude": 66.892679,
+    "TotalPunishments": 38,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 39.68116,
+    "Longitude": 66.902087,
+    "TotalPunishments": 48,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 39.690134,
+    "Longitude": 66.885951,
+    "TotalPunishments": 79,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 39.646672,
+    "Longitude": 66.952929,
+    "TotalPunishments": 78,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 39.653992,
+    "Longitude": 66.953538,
+    "TotalPunishments": 16,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 39.67396,
+    "Longitude": 66.905732,
+    "TotalPunishments": 14,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 39.595264,
+    "Longitude": 67.032577,
+    "TotalPunishments": 5,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 39.675422,
+    "Longitude": 66.915113,
+    "TotalPunishments": 755,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 39.657655,
+    "Longitude": 67.029633,
+    "TotalPunishments": 44,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.024073,
+    "Longitude": 71.808356,
+    "TotalPunishments": 11,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.123532,
+    "Longitude": 70.481743,
+    "TotalPunishments": 58,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 39.119078,
+    "Longitude": 66.905374,
+    "TotalPunishments": 10,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 38.854031,
+    "Longitude": 65.789351,
+    "TotalPunishments": 42,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 39.038301,
+    "Longitude": 65.584783,
+    "TotalPunishments": 48,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 3
+  },
+  {
+    "Latitude": 38.86442,
+    "Longitude": 65.799759,
+    "TotalPunishments": 60,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 40.978592,
+    "Longitude": 71.723106,
+    "TotalPunishments": 49,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.972748,
+    "Longitude": 71.708253,
+    "TotalPunishments": 15,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 3
+  },
+  {
+    "Latitude": 40.977636,
+    "Longitude": 71.459178,
+    "TotalPunishments": 13,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.964579,
+    "Longitude": 71.685301,
+    "TotalPunishments": 21,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 3
+  },
+  {
+    "Latitude": 40.889234,
+    "Longitude": 70.773293,
+    "TotalPunishments": 9,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 39.607715,
+    "Longitude": 66.291195,
+    "TotalPunishments": 13,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 39.420755,
+    "Longitude": 67.239102,
+    "TotalPunishments": 107,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 3
+  },
+  {
+    "Latitude": 40.366948,
+    "Longitude": 71.781787,
+    "TotalPunishments": 5,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 39.6251,
+    "Longitude": 66.27727,
+    "TotalPunishments": 9,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 39.696825,
+    "Longitude": 67.096503,
+    "TotalPunishments": 6,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 39.615662,
+    "Longitude": 66.957023,
+    "TotalPunishments": 25,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 39.922088,
+    "Longitude": 65.925723,
+    "TotalPunishments": 21,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 40.496025,
+    "Longitude": 72.028597,
+    "TotalPunishments": 26,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.392471,
+    "Longitude": 71.803047,
+    "TotalPunishments": 15,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.993899,
+    "Longitude": 71.671545,
+    "TotalPunishments": 38,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 41.031689,
+    "Longitude": 71.858622,
+    "TotalPunishments": 43,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 40.747167,
+    "Longitude": 72.236138,
+    "TotalPunishments": 17,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.66695,
+    "Longitude": 72.56474,
+    "TotalPunishments": 17,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 41.010548,
+    "Longitude": 71.673713,
+    "TotalPunishments": 51,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.595814,
+    "Longitude": 71.391542,
+    "TotalPunishments": 5,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.04617,
+    "Longitude": 71.721188,
+    "TotalPunishments": 11,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.863882,
+    "Longitude": 71.459815,
+    "TotalPunishments": 73,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 3
+  },
+  {
+    "Latitude": 40.537141,
+    "Longitude": 70.941897,
+    "TotalPunishments": 5,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 3
+  },
+  {
+    "Latitude": 40.668726,
+    "Longitude": 72.562868,
+    "TotalPunishments": 7,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 40.915414,
+    "Longitude": 72.119714,
+    "TotalPunishments": 27,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 40.895823,
+    "Longitude": 72.251372,
+    "TotalPunishments": 8,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 40.907847,
+    "Longitude": 72.253393,
+    "TotalPunishments": 5,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.7239,
+    "Longitude": 72.712826,
+    "TotalPunishments": 7,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.674672,
+    "Longitude": 72.556648,
+    "TotalPunishments": 5,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.727705,
+    "Longitude": 72.679964,
+    "TotalPunishments": 5,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.774928,
+    "Longitude": 72.325907,
+    "TotalPunishments": 34,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.724635,
+    "Longitude": 72.718074,
+    "TotalPunishments": 9,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.72421,
+    "Longitude": 72.714949,
+    "TotalPunishments": 15,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.678954,
+    "Longitude": 72.553732,
+    "TotalPunishments": 6,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.725035,
+    "Longitude": 72.721006,
+    "TotalPunishments": 8,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.675962,
+    "Longitude": 71.841062,
+    "TotalPunishments": 5,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.723814,
+    "Longitude": 72.712094,
+    "TotalPunishments": 5,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.723574,
+    "Longitude": 72.7101,
+    "TotalPunishments": 7,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.678039,
+    "Longitude": 72.554184,
+    "TotalPunishments": 5,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.585994,
+    "Longitude": 72.33438,
+    "TotalPunishments": 5,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.723674,
+    "Longitude": 72.710932,
+    "TotalPunishments": 5,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.731271,
+    "Longitude": 72.64996,
+    "TotalPunishments": 5,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.724804,
+    "Longitude": 72.719128,
+    "TotalPunishments": 5,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.583892,
+    "Longitude": 72.33505,
+    "TotalPunishments": 5,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.678647,
+    "Longitude": 72.233248,
+    "TotalPunishments": 6,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 39.685243,
+    "Longitude": 66.996615,
+    "TotalPunishments": 8,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 39.951731,
+    "Longitude": 66.434218,
+    "TotalPunishments": 7,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 37.305228,
+    "Longitude": 67.194673,
+    "TotalPunishments": 10,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.807541,
+    "Longitude": 72.34448,
+    "TotalPunishments": 5,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.89507,
+    "Longitude": 71.856633,
+    "TotalPunishments": 6,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.729544,
+    "Longitude": 72.771458,
+    "TotalPunishments": 5,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.37979,
+    "Longitude": 71.75174,
+    "TotalPunishments": 6,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 3
+  },
+  {
+    "Latitude": 40.48485,
+    "Longitude": 71.744675,
+    "TotalPunishments": 6,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 40.807532,
+    "Longitude": 72.344541,
+    "TotalPunishments": 10,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.675369,
+    "Longitude": 71.839444,
+    "TotalPunishments": 7,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.637899,
+    "Longitude": 71.210922,
+    "TotalPunishments": 5,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.380829,
+    "Longitude": 71.751052,
+    "TotalPunishments": 5,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 3
+  },
+  {
+    "Latitude": 40.376147,
+    "Longitude": 71.754159,
+    "TotalPunishments": 6,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 3
+  },
+  {
+    "Latitude": 40.15322,
+    "Longitude": 67.823027,
+    "TotalPunishments": 7,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 39.67372,
+    "Longitude": 67.021577,
+    "TotalPunishments": 40,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 39.655112,
+    "Longitude": 66.935681,
+    "TotalPunishments": 33,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.097827,
+    "Longitude": 67.865546,
+    "TotalPunishments": 42,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 3
+  },
+  {
+    "Latitude": 40.137703,
+    "Longitude": 67.8227,
+    "TotalPunishments": 15,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 3
+  },
+  {
+    "Latitude": 40.13657,
+    "Longitude": 67.816986,
+    "TotalPunishments": 12,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 3
+  },
+  {
+    "Latitude": 39.946179,
+    "Longitude": 68.391147,
+    "TotalPunishments": 18,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 39.897041,
+    "Longitude": 67.49858,
+    "TotalPunishments": 21,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.254721,
+    "Longitude": 69.411334,
+    "TotalPunishments": 6,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.15909,
+    "Longitude": 67.831177,
+    "TotalPunishments": 38,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 3
+  },
+  {
+    "Latitude": 39.956184,
+    "Longitude": 67.540944,
+    "TotalPunishments": 19,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.147372,
+    "Longitude": 65.326083,
+    "TotalPunishments": 9,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.353112,
+    "Longitude": 68.134032,
+    "TotalPunishments": 5,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.270521,
+    "Longitude": 69.302938,
+    "TotalPunishments": 5,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 40.507769,
+    "Longitude": 68.507331,
+    "TotalPunishments": 41,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.49979,
+    "Longitude": 68.56739,
+    "TotalPunishments": 7,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.546903,
+    "Longitude": 68.600978,
+    "TotalPunishments": 36,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.55102,
+    "Longitude": 68.401225,
+    "TotalPunishments": 25,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.789682,
+    "Longitude": 68.678732,
+    "TotalPunishments": 19,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.502779,
+    "Longitude": 68.528289,
+    "TotalPunishments": 15,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.53969,
+    "Longitude": 68.422043,
+    "TotalPunishments": 10,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.443058,
+    "Longitude": 68.240147,
+    "TotalPunishments": 21,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.215474,
+    "Longitude": 68.810614,
+    "TotalPunishments": 7,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.626439,
+    "Longitude": 68.734021,
+    "TotalPunishments": 7,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.489142,
+    "Longitude": 68.7377,
+    "TotalPunishments": 6,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 3
+  },
+  {
+    "Latitude": 40.504523,
+    "Longitude": 68.516991,
+    "TotalPunishments": 19,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.625394,
+    "Longitude": 68.775595,
+    "TotalPunishments": 14,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.540251,
+    "Longitude": 68.592543,
+    "TotalPunishments": 7,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.458683,
+    "Longitude": 68.258545,
+    "TotalPunishments": 7,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.088673,
+    "Longitude": 68.151717,
+    "TotalPunishments": 29,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.080663,
+    "Longitude": 67.718887,
+    "TotalPunishments": 6,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.09607,
+    "Longitude": 67.89668,
+    "TotalPunishments": 12,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.303893,
+    "Longitude": 67.963257,
+    "TotalPunishments": 27,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.073307,
+    "Longitude": 67.902717,
     "TotalPunishments": 7,
     "LastPunishmentDate": "2025-01-17T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.053017,
+    "Longitude": 67.792007,
+    "TotalPunishments": 20,
+    "LastPunishmentDate": "2025-01-17T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.328171,
+    "Longitude": 67.971702,
+    "TotalPunishments": 9,
+    "LastPunishmentDate": "2025-01-17T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.00965,
+    "Longitude": 67.592,
+    "TotalPunishments": 7,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 39.663317,
+    "Longitude": 66.932876,
+    "TotalPunishments": 7,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 40.157146,
+    "Longitude": 67.828621,
+    "TotalPunishments": 7,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 3
+  },
+  {
+    "Latitude": 38.982614,
+    "Longitude": 66.663,
+    "TotalPunishments": 10,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.097578,
+    "Longitude": 67.78038,
+    "TotalPunishments": 5,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 39.727584,
+    "Longitude": 66.944552,
+    "TotalPunishments": 8,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.060721,
+    "Longitude": 67.831734,
+    "TotalPunishments": 14,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 38.91941,
+    "Longitude": 65.498837,
+    "TotalPunishments": 40,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 38.008396,
+    "Longitude": 67.784731,
+    "TotalPunishments": 16,
+    "LastPunishmentDate": "2025-01-17T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 41.04637,
+    "Longitude": 71.718918,
+    "TotalPunishments": 11,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.036038,
+    "Longitude": 67.630032,
+    "TotalPunishments": 5,
+    "LastPunishmentDate": "2025-01-17T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.965469,
+    "Longitude": 69.96048,
+    "TotalPunishments": 6,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 37.5854,
+    "Longitude": 67.450349,
+    "TotalPunishments": 21,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 37.249907,
+    "Longitude": 67.238082,
+    "TotalPunishments": 8,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 37.623295,
+    "Longitude": 67.042759,
+    "TotalPunishments": 17,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 37.706862,
+    "Longitude": 67.498753,
+    "TotalPunishments": 25,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 37.589774,
+    "Longitude": 67.452037,
+    "TotalPunishments": 7,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 38.071463,
+    "Longitude": 66.976536,
+    "TotalPunishments": 16,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 37.250168,
+    "Longitude": 67.331947,
+    "TotalPunishments": 30,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 37.53734,
+    "Longitude": 67.10445,
+    "TotalPunishments": 5,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 38.144104,
+    "Longitude": 67.890013,
+    "TotalPunishments": 7,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 38.809876,
+    "Longitude": 65.806866,
+    "TotalPunishments": 23,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 37.471656,
+    "Longitude": 67.134288,
+    "TotalPunishments": 9,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 37.248253,
+    "Longitude": 67.240222,
+    "TotalPunishments": 5,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 39.263093,
+    "Longitude": 65.166303,
+    "TotalPunishments": 16,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 38.996611,
+    "Longitude": 65.978311,
+    "TotalPunishments": 6,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 37.243868,
+    "Longitude": 67.24602,
+    "TotalPunishments": 6,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 37.24773,
+    "Longitude": 67.241063,
+    "TotalPunishments": 6,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 38.62221,
+    "Longitude": 66.246327,
+    "TotalPunishments": 7,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 37.877105,
+    "Longitude": 67.629975,
+    "TotalPunishments": 6,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 38.772741,
+    "Longitude": 65.769579,
+    "TotalPunishments": 17,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 39.92905,
+    "Longitude": 66.26409,
+    "TotalPunishments": 9,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 37.733038,
+    "Longitude": 67.507874,
+    "TotalPunishments": 5,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.03576,
+    "Longitude": 64.40768,
+    "TotalPunishments": 22,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 37.456444,
+    "Longitude": 67.311385,
+    "TotalPunishments": 15,
+    "LastPunishmentDate": "2025-01-17T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 37.472701,
+    "Longitude": 67.134281,
+    "TotalPunishments": 8,
+    "LastPunishmentDate": "2025-01-17T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 37.251385,
+    "Longitude": 67.236064,
+    "TotalPunishments": 5,
+    "LastPunishmentDate": "2025-01-17T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 38.884177,
+    "Longitude": 66.227711,
+    "TotalPunishments": 9,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 38.866465,
+    "Longitude": 65.800663,
+    "TotalPunishments": 81,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 39.50775,
+    "Longitude": 66.510578,
+    "TotalPunishments": 10,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 38.246038,
+    "Longitude": 67.911016,
+    "TotalPunishments": 40,
+    "LastPunishmentDate": "2025-01-17T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 40.73004,
+    "Longitude": 68.692115,
+    "TotalPunishments": 6,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 38.008671,
+    "Longitude": 67.785244,
+    "TotalPunishments": 15,
+    "LastPunishmentDate": "2025-01-17T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 37.24391,
+    "Longitude": 67.317054,
+    "TotalPunishments": 5,
+    "LastPunishmentDate": "2025-01-17T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 38.114243,
+    "Longitude": 67.86762,
+    "TotalPunishments": 11,
+    "LastPunishmentDate": "2025-01-17T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 37.765735,
+    "Longitude": 67.527114,
+    "TotalPunishments": 16,
+    "LastPunishmentDate": "2025-01-17T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 38.008972,
+    "Longitude": 67.785783,
+    "TotalPunishments": 8,
+    "LastPunishmentDate": "2025-01-17T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 38.84614,
+    "Longitude": 66.42172,
+    "TotalPunishments": 11,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.054265,
+    "Longitude": 67.707084,
+    "TotalPunishments": 8,
+    "LastPunishmentDate": "2025-01-17T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 37.245924,
+    "Longitude": 67.309013,
+    "TotalPunishments": 7,
+    "LastPunishmentDate": "2025-01-17T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 37.668956,
+    "Longitude": 66.996261,
+    "TotalPunishments": 5,
+    "LastPunishmentDate": "2025-01-17T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 38.605781,
+    "Longitude": 66.268233,
+    "TotalPunishments": 11,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 38.950182,
+    "Longitude": 65.706862,
+    "TotalPunishments": 25,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 38.838156,
+    "Longitude": 65.782089,
+    "TotalPunishments": 48,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 38.926265,
+    "Longitude": 65.42244,
+    "TotalPunishments": 21,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 38.902614,
+    "Longitude": 65.817332,
+    "TotalPunishments": 19,
+    "LastPunishmentDate": "2025-01-17T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 38.859136,
+    "Longitude": 65.765304,
+    "TotalPunishments": 38,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 39.900633,
+    "Longitude": 65.797834,
+    "TotalPunishments": 8,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 38.900638,
+    "Longitude": 65.797802,
+    "TotalPunishments": 12,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 39.832119,
+    "Longitude": 64.37878,
+    "TotalPunishments": 5,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 39.116587,
+    "Longitude": 66.869579,
+    "TotalPunishments": 11,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 38.930934,
+    "Longitude": 66.58295,
+    "TotalPunishments": 6,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 38.84779,
+    "Longitude": 65.781344,
+    "TotalPunishments": 22,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 39.03127,
+    "Longitude": 65.60438,
+    "TotalPunishments": 16,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 39.058985,
+    "Longitude": 66.834884,
+    "TotalPunishments": 7,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 38.850979,
+    "Longitude": 65.782444,
+    "TotalPunishments": 32,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 39.04963,
+    "Longitude": 65.591474,
+    "TotalPunishments": 14,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 38.97393,
+    "Longitude": 66.703578,
+    "TotalPunishments": 8,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 38.924363,
+    "Longitude": 65.409774,
+    "TotalPunishments": 17,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 39.117971,
+    "Longitude": 66.875448,
+    "TotalPunishments": 8,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 39.118902,
+    "Longitude": 66.901136,
+    "TotalPunishments": 20,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 38.341018,
+    "Longitude": 66.541022,
+    "TotalPunishments": 13,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 38.970132,
+    "Longitude": 66.711819,
+    "TotalPunishments": 40,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 38.95941,
+    "Longitude": 66.605855,
+    "TotalPunishments": 7,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 38.861819,
+    "Longitude": 65.783539,
+    "TotalPunishments": 7,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 38.97614,
+    "Longitude": 66.672148,
+    "TotalPunishments": 8,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 38.918691,
+    "Longitude": 66.573666,
+    "TotalPunishments": 6,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 39.08077,
+    "Longitude": 66.851942,
+    "TotalPunishments": 12,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 38.81889,
+    "Longitude": 65.802779,
+    "TotalPunishments": 40,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 39.03271,
+    "Longitude": 65.59312,
+    "TotalPunishments": 13,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 39.04961,
+    "Longitude": 65.59154,
+    "TotalPunishments": 14,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 39.116522,
+    "Longitude": 66.846324,
+    "TotalPunishments": 8,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 38.912774,
+    "Longitude": 65.755018,
+    "TotalPunishments": 6,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 39.040213,
+    "Longitude": 66.964324,
+    "TotalPunishments": 13,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 38.859891,
+    "Longitude": 65.897084,
+    "TotalPunishments": 23,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 38.960019,
+    "Longitude": 66.747808,
+    "TotalPunishments": 9,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 38.494943,
+    "Longitude": 65.62109,
+    "TotalPunishments": 11,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 38.910805,
+    "Longitude": 65.762048,
+    "TotalPunishments": 5,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.766076,
+    "Longitude": 68.683031,
+    "TotalPunishments": 7,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.625376,
+    "Longitude": 68.775405,
+    "TotalPunishments": 6,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 39.511079,
+    "Longitude": 66.515957,
+    "TotalPunishments": 14,
+    "LastPunishmentDate": "2025-01-17T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 39.413567,
+    "Longitude": 63.786672,
+    "TotalPunishments": 5,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 38.992062,
+    "Longitude": 65.654107,
+    "TotalPunishments": 7,
+    "LastPunishmentDate": "2025-01-17T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 39.774744,
+    "Longitude": 66.892963,
+    "TotalPunishments": 13,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 39.675761,
+    "Longitude": 67.014826,
+    "TotalPunishments": 19,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 39.637951,
+    "Longitude": 66.968447,
+    "TotalPunishments": 9,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 39.676597,
+    "Longitude": 66.944556,
+    "TotalPunishments": 6,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 39.432172,
+    "Longitude": 67.232822,
+    "TotalPunishments": 48,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 39.886986,
+    "Longitude": 66.741086,
+    "TotalPunishments": 27,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.103992,
+    "Longitude": 65.374329,
+    "TotalPunishments": 5,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 39.972584,
+    "Longitude": 65.9394,
+    "TotalPunishments": 18,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 39.93592,
+    "Longitude": 66.553047,
+    "TotalPunishments": 6,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 39.936143,
+    "Longitude": 66.557213,
+    "TotalPunishments": 7,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 39.608723,
+    "Longitude": 66.29395,
+    "TotalPunishments": 8,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 39.703752,
+    "Longitude": 66.950251,
+    "TotalPunishments": 29,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 39.655542,
+    "Longitude": 66.961839,
+    "TotalPunishments": 7,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 39.615817,
+    "Longitude": 66.955933,
+    "TotalPunishments": 6,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 39.875955,
+    "Longitude": 66.753258,
+    "TotalPunishments": 27,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 3
+  },
+  {
+    "Latitude": 40.147639,
+    "Longitude": 65.32391,
+    "TotalPunishments": 5,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 39.685244,
+    "Longitude": 66.396606,
+    "TotalPunishments": 5,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.036972,
+    "Longitude": 64.398046,
+    "TotalPunishments": 18,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 3
+  },
+  {
+    "Latitude": 40.128256,
+    "Longitude": 65.426454,
+    "TotalPunishments": 5,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.101658,
+    "Longitude": 65.394734,
+    "TotalPunishments": 27,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.00942,
+    "Longitude": 64.52612,
+    "TotalPunishments": 5,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 39.767618,
+    "Longitude": 67.272734,
+    "TotalPunishments": 5,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.141406,
+    "Longitude": 65.390774,
+    "TotalPunishments": 8,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.357773,
+    "Longitude": 69.206368,
+    "TotalPunishments": 6,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 40.072152,
+    "Longitude": 64.911044,
+    "TotalPunishments": 5,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.222598,
+    "Longitude": 65.314793,
+    "TotalPunishments": 13,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.107944,
+    "Longitude": 65.043802,
+    "TotalPunishments": 7,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.913729,
+    "Longitude": 69.823087,
+    "TotalPunishments": 7,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.477958,
+    "Longitude": 69.590891,
+    "TotalPunishments": 5,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 39.940404,
+    "Longitude": 66.393072,
+    "TotalPunishments": 5,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 39.64686,
+    "Longitude": 66.930193,
+    "TotalPunishments": 24,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 39.935877,
+    "Longitude": 66.559052,
+    "TotalPunishments": 10,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.272075,
+    "Longitude": 65.15159,
+    "TotalPunishments": 25,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 3
+  },
+  {
+    "Latitude": 39.771985,
+    "Longitude": 64.381853,
+    "TotalPunishments": 5,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 41.008074,
+    "Longitude": 71.586772,
+    "TotalPunishments": 59,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 41.193078,
+    "Longitude": 71.727676,
+    "TotalPunishments": 15,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 41.189804,
+    "Longitude": 71.723306,
+    "TotalPunishments": 10,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 41.192382,
+    "Longitude": 71.72685,
+    "TotalPunishments": 41,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 3
+  },
+  {
+    "Latitude": 40.31224,
+    "Longitude": 71.77199,
+    "TotalPunishments": 7,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.991544,
+    "Longitude": 71.492697,
+    "TotalPunishments": 17,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.977197,
+    "Longitude": 71.712697,
+    "TotalPunishments": 7,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 40.229102,
+    "Longitude": 65.300587,
+    "TotalPunishments": 13,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 3
+  },
+  {
+    "Latitude": 41.106979,
+    "Longitude": 72.07776,
+    "TotalPunishments": 48,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 41.019163,
+    "Longitude": 71.624716,
+    "TotalPunishments": 8,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.992595,
+    "Longitude": 71.668076,
+    "TotalPunishments": 12,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 40.997461,
+    "Longitude": 71.596683,
+    "TotalPunishments": 27,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.017529,
+    "Longitude": 71.609338,
+    "TotalPunishments": 10,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.994302,
+    "Longitude": 71.621443,
+    "TotalPunishments": 8,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.98161,
+    "Longitude": 71.704116,
+    "TotalPunishments": 9,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 3
+  },
+  {
+    "Latitude": 41.004697,
+    "Longitude": 71.613131,
+    "TotalPunishments": 7,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.01109,
+    "Longitude": 71.60159,
+    "TotalPunishments": 6,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.99528,
+    "Longitude": 71.24705,
+    "TotalPunishments": 8,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.005248,
+    "Longitude": 71.613707,
+    "TotalPunishments": 7,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.046044,
+    "Longitude": 71.721973,
+    "TotalPunishments": 7,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.887177,
+    "Longitude": 71.069748,
+    "TotalPunishments": 5,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.967713,
+    "Longitude": 71.63606,
+    "TotalPunishments": 5,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.254653,
+    "Longitude": 71.689228,
+    "TotalPunishments": 5,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.00584,
+    "Longitude": 71.61435,
+    "TotalPunishments": 6,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.97717,
+    "Longitude": 71.71365,
+    "TotalPunishments": 6,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 3
+  },
+  {
+    "Latitude": 40.981963,
+    "Longitude": 71.702703,
+    "TotalPunishments": 6,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 3
+  },
+  {
+    "Latitude": 40.964558,
+    "Longitude": 71.684282,
+    "TotalPunishments": 5,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 3
+  },
+  {
+    "Latitude": 40.952004,
+    "Longitude": 71.206832,
+    "TotalPunishments": 6,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.104134,
+    "Longitude": 69.045128,
+    "TotalPunishments": 6,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 40.99364,
+    "Longitude": 71.963555,
+    "TotalPunishments": 12,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.045622,
+    "Longitude": 71.727867,
+    "TotalPunishments": 6,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.124451,
+    "Longitude": 65.365277,
+    "TotalPunishments": 19,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.534502,
+    "Longitude": 70.919487,
+    "TotalPunishments": 9,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 3
+  },
+  {
+    "Latitude": 40.400345,
+    "Longitude": 71.757381,
+    "TotalPunishments": 5,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.506181,
+    "Longitude": 70.928445,
+    "TotalPunishments": 9,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 3
+  },
+  {
+    "Latitude": 40.392899,
+    "Longitude": 71.802676,
+    "TotalPunishments": 12,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.422927,
+    "Longitude": 70.862614,
+    "TotalPunishments": 14,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.402718,
+    "Longitude": 71.75317,
+    "TotalPunishments": 5,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 3
+  },
+  {
+    "Latitude": 40.352423,
+    "Longitude": 71.49118,
+    "TotalPunishments": 5,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.978678,
+    "Longitude": 71.709879,
+    "TotalPunishments": 10,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 40.995953,
+    "Longitude": 71.22829,
+    "TotalPunishments": 72,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 41.186896,
+    "Longitude": 71.72239,
+    "TotalPunishments": 7,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 40.998753,
+    "Longitude": 71.227283,
+    "TotalPunishments": 7,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 41.186436,
+    "Longitude": 71.722484,
+    "TotalPunishments": 8,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 41.186193,
+    "Longitude": 71.722563,
+    "TotalPunishments": 8,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 41.187741,
+    "Longitude": 71.722282,
+    "TotalPunishments": 9,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 41.188779,
+    "Longitude": 71.722375,
+    "TotalPunishments": 7,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 41.185432,
+    "Longitude": 71.722619,
+    "TotalPunishments": 7,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 41.023797,
+    "Longitude": 71.662631,
+    "TotalPunishments": 16,
+    "LastPunishmentDate": "2025-01-17T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.991165,
+    "Longitude": 70.638463,
+    "TotalPunishments": 6,
+    "LastPunishmentDate": "2025-01-17T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.975221,
+    "Longitude": 71.717249,
+    "TotalPunishments": 14,
+    "LastPunishmentDate": "2025-01-17T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.03908,
+    "Longitude": 64.842307,
+    "TotalPunishments": 11,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 3
+  },
+  {
+    "Latitude": 40.035173,
+    "Longitude": 64.847167,
+    "TotalPunishments": 9,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 3
+  },
+  {
+    "Latitude": 40.094671,
+    "Longitude": 65.422008,
+    "TotalPunishments": 5,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 41.04116,
+    "Longitude": 71.676716,
+    "TotalPunishments": 8,
+    "LastPunishmentDate": "2025-01-17T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.144732,
+    "Longitude": 65.37078,
+    "TotalPunishments": 5,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.207495,
+    "Longitude": 65.332245,
+    "TotalPunishments": 8,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.268417,
+    "Longitude": 65.163157,
+    "TotalPunishments": 8,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.096014,
+    "Longitude": 64.696715,
+    "TotalPunishments": 5,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 1
+  },
+  {
+    "Latitude": 40.030831,
+    "Longitude": 65.963065,
+    "TotalPunishments": 6,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
+    "CameraType": 0
+  },
+  {
+    "Latitude": 40.089543,
+    "Longitude": 65.38818,
+    "TotalPunishments": 6,
+    "LastPunishmentDate": "2025-01-18T00:00:00",
     "CameraType": 1
   }
 ]
